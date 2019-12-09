@@ -1,0 +1,51 @@
+# ----------- CONFIGURABLE START -----------
+title:            "Yunyy"
+description:      "Yunyy's Notes, 流水账和七拼八凑的时间碎片。"
+url:              https://yunyyyy.github.io/Blogs/ # Site url, without a slash at the end.
+signoff:          "Yunyy" # Your name
+# facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
+# google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+share:            false # Turn on twitter and facebook share buttons
+
+links:
+  - name:         Home
+    url:          /
+    external:     false
+  - name:         Blogs
+    url:          /categories
+    external:     false
+  - name:         About
+    url:          /about
+    external:     false
+
+cases:
+  - name: mazhuanji
+    id:   码砖记
+  - name: Notes
+    id:   笔记
+  - name: liushui
+    id:   生活是一篇长长的流水账
+  - name: nianlun
+    id:   年轮
+  - name: sougua
+    id:   搜刮
+  - name: feihua
+    id:   脑子里总是琢磨废话
+
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# ------------ CONFIGURABLE END ------------
+
+permalink:        /posts/:title
+defaults:
+  - values:
+      layout: "default"
+      
+# Reference
+# colophon: "©  Theme under <a href='http://jekyllthemes.org/themes/scribble/'> scribble </a>.<br> 
+# Yunyy's Notes and Blogs.<br>
+# Github repository <a href='https://github.com/YunyyYY/Blogs'> Blogs</a>"

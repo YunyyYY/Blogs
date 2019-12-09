@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yunyy</title>
+    <description>Yunyy's Notes, 流水账和七拼八凑的时间碎片。</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Pyqt notes</title>
+        <description>&lt;h1 id=&quot;pyqt-notes&quot;&gt;PyQt Notes&lt;/h1&gt;
+
+</description>
+        <pubDate>Fri, 06 Dec 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/posts/PyQt-Notes</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/PyQt-Notes</guid>
+      </item>
+    
+      <item>
+        <title>不识</title>
+        <description>&lt;p&gt;####11.12&lt;/p&gt;
+
+&lt;p&gt;有很长一段时间里，脑子里总是处于一种混沌的状态。不知道我所过的生活究竟是什么。每个星期重复的行程像早就刻在铁板上的程序，永远在往复旋转。&lt;/p&gt;
+
+&lt;p&gt;在生活里遇到这样那样的问题，然后发现自己早已失去了刚上大学时候那种永远在线的上进心。变得对一切都无动于衷，不知道是因为想要逃避不甘愿的心情，还是为了活着更轻松。&lt;/p&gt;
+
+&lt;p&gt;昨天晚上突然买到回家的机票以后，突然之间寒假就可以回家了。被难以言喻的幸福感包容。甚至重拾了对生活的信心，开始想要好好努力。&lt;/p&gt;
+
+&lt;p&gt;可能是在无意中发现了自己的本质吧，人终究是毫不起眼的。但是也有所爱的人值得为之奋斗。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;123&quot;&gt;12.3&lt;/h4&gt;
+
+&lt;p&gt;这段时间好像魔怔了，一直精神失常，情绪低沉，对身边的一切都漠不关心。但是感恩节从北密回来以后魔怔突然被治愈了。夜深时分突然惊醒，感到格外凄清也格外安宁。断断续续中会因为一些小小的细节继而想起好几个月以前的事情。想起当初错误的撒气和不负责任的埋怨。心中有愧，但是因为时间隔得太久远，又很久没有联系，于是失去了提起它的契机。于是只好在心里默默说声抱歉。前段时间因为感受不到生活的真实而暴躁不安。有好几次想要记录下内心的烦躁，最后每次都是打开了页面，却最终没有落笔。在键盘面前踟蹰了一会，还是放弃了。有些时候，人连一个说服自己的理由也懒得找。但是，现在终于能脚踏实地的感受到生活的存在了。不知道是因为写出了一直害怕且逃避的代码，还是因为如愿改变了对最讨厌的一门课的态度，还是因为突发奇想开始看《世界美术二十讲》。但是无论如何，在这个学期即将结束的最后两个星期，突然恢复了对生活的感知能力。有一种大病初愈的感觉，和内心某个叛逆的声音和解的感觉。在逃跑了很长一段时间以后最终又回到了从前喜欢的事情上。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Nov 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/feihua/%E4%B8%8D%E8%AF%86/</link>
+        <guid isPermaLink="true">http://localhost:4000/feihua/%E4%B8%8D%E8%AF%86/</guid>
+      </item>
+    
+      <item>
+        <title>局外人</title>
+        <description>&lt;h3 id=&quot;局外人&quot;&gt;局外人&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;阿尔贝·加缪(Albert Camus). 《局外人》 上海译文出版社. Kindle Edition.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;它真正的病是衰老，而衰老是治不好的。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他全神贯注地盯着我，带点儿伤心的神情，低声说：“我从没有见过像您这样冥顽不化的灵魂，所有来到我面前的犯人，见了这个十字架，都会痛哭流涕。”我正想回答说，这正是因为他们都是罪犯，但我立刻想到我也跟他们一样。罪犯这个念头，我一直还习惯不了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;在入狱之初，最叫我痛苦难受的是我还有自由人意识。例如，我想到海滩上去，想朝大海走去，想像最先冲到我脚下的海浪的声响，想像身体跳进海水时的解脱感，这时，却突然意识到自己是禁闭在牢房的四壁之中。但这种不适应感只持续了几个月，然后，我就只有囚犯意识了。我期待着每天在院子里放风或者律师来和我晤谈。其余的时间，我也安排得很好。我常想，如果要我住在一棵枯树的树干里，什么事都不能做，只能抬头望望天空的流云，日复一日，我逐渐也会习惯的，我会等待着鸟儿阵阵飞起，云彩聚散飘忽，就像我在牢房里等着我的律师戴着奇特的领带出现，或者就像我在自由的日子里耐心地等到星期六而去拥抱玛丽的肉体。更何况，认真一想，我并没有落到在枯树干里度日的地步。比我更不幸的人还多着呢，不过，这是妈妈的思维方式，她常这么自宽自解，说到头来人什么都能习惯。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;一个人即使只生活过一天，他也可以在监狱里待上一百年而不至于难以度日，他有足够的东西可供回忆，决不会感到烦闷无聊。从某种意义上来说，这也是一种愉快。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我过去在书里读到过，说人在监狱里久而久之，最后就会失去时间观念。但是，这对我来说，并没有多大意义。我一直不理解，在何种程度上，既可说日子漫漫难挨，又可说苦短无多。日子，过起来当然就长，但是拖拖拉拉，日复一日，年复一年，最后就混淆成了一片。每个日子都丧失了自己的名字。对我来说，只有“昨天”与“明天”这样的字，才具有一定的意义。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我觉得，我的样子显得很严肃，即使是在我试图微笑的时候也是如此。我晃了晃那饭盒，又微笑了一下，但照出来的仍是那副严肃而忧愁的神情。天黑了，这是我不愿意谈到的时间，是无以名状的时间，这时，夜晚的嘈杂声从监狱各层升起，而后又复归于一片寂静。我走近天窗，借着最后的亮光，又照了照自己的脸。神情老是那么严肃。这有什么奇怪呢？既然那个时刻我一直就很严肃。但这时，我几个月来第一次清晰地听见我自己说话的声音。我辨识出这就是好久以来一直在我耳边回响的声音，我这才明白，在这一段日子里，我一直在自言自语。于是，我回想起妈妈葬礼那天女护士说过的话。不，出路是没有的，没有人能想像出监狱里的夜晚是怎么样的。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我只是觉得自己似乎是在电车上，对面坐位上有一排不认识的乘客，他们审视着新上车的人，想在他们身上发现有什么可笑之处。我马上意识到我这种联想很荒唐，因为我面前这些人不是在找可笑之处，而是在找罪行。不过，两者的区别也并不大，反正我就是这么想的。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;“这就是这场审讯的形象，所有一切都是真的，但又没有任何东西是真的！”&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;对过去生活的种种回忆突然涌入我的脑海，那生活已经不属于我了，但我从那里确曾得到过我最可怜、最难以忘怀的快乐，如夏天的气味、我所热爱的街区、傍晚时的天空、玛丽的笑声与裙子。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;世人对这类问题必须经常关注，因为谁也不知道会有什么事情落在自己头上。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我听见自己的心在跳动，我不能想像伴随着我这么多年的心跳声，有朝一日会停止。我从未有过真正的想像力。但我还是试图想像出心跳声不再传到脑子里的那短暂的片刻。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;一种阴暗的气息从我未来前途的深处向我扑面而来，它穿越了尚未到来的岁月，所到之处，使人们曾经向我建议的所有一切彼此之间不再有高下优劣的差别了，未来的生活也并不比我以往的生活更真切实在。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;田野上万籁作响，直传到我的耳际。夜的气味， 土地的气味，海水的气味，使我两鬓生凉。这夏夜奇妙的安静像潮水一样浸透了我的全身。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;掏空了我的七情六欲一样，现在我面对着这个充满了星光与默示的夜，第一次向这个冷漠的世界敞开了我的心扉。我体验到这个世界如此像我，如此友爱融洽，觉得自己过去曾经是幸福的，现在仍然是幸福的。为了善始善终，功德圆满，为了不感到自己属于另类，我期望处决我的那天，有很多人前来看热闹，他们都向我发出仇恨的叫喊声。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Nov 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/sougua/%E5%B1%80%E5%A4%96%E4%BA%BA/</link>
+        <guid isPermaLink="true">http://localhost:4000/sougua/%E5%B1%80%E5%A4%96%E4%BA%BA/</guid>
+      </item>
+    
+      <item>
+        <title>穆斯林的葬礼</title>
+        <description>&lt;p&gt;她夜夜都梦见这座门楼、这所院子，梦见院子里的天空，梦见天上的月亮，梦见那一双永远也不能忘记的眼睛，梦见那一声声牵心动腑的呼唤……&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;天上有明月，年年照相思。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;她夜夜沉醉在梦中。梦把空间缩短了，梦把时间凝固了，梦把世界净化了。梦中没有污秽，没有嘈杂，没有邪恶；梦中没有分离，没有创伤，没有痛苦；梦中只有柔和的月色，只有温馨的爱；梦使她永远年轻，使她不愿醒来。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;“克尔白！您去朝克尔白？”梁亦清又着着实实地吃了一惊。克尔白是穆斯林尊贵的天房，远在阿拉伯的圣地麦加，全世界的穆斯林一日五次的礼拜都朝着那个方向；每一个穆斯林一生之中，如果条件许可应该前往克尔白朝觐一次。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他在人世间走了很久很久，好像就是为了这一个美妙的瞬间，他感到了从未体味过的满足、兴奋和欢乐，仿佛他手中捧着的不是一只玉碗，而是天外飞来的精灵，和他的心相通了。他陶醉了，麻木了，把身边的一切，把他自己都忘记了，被玉魔摄住了魂魄……&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;过生日无非是表达一点美好的愿望吧。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;事业的追求，并不一定要什么头衔和称号来满足，你爱上了一种东西，愿意用全部心血去研究它，掌握它，从中得到了乐趣，并且永远也不舍得丢弃它，这就是事业心，是比什么都重要的……”&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;眼泪这东西，有时能起到极其神奇的作用，能把持有截然不同的观点的人稀里糊涂地拢在一起，把迂腐陈旧的意识变得温暖感人，把生机勃勃的新兴幼芽儿在爱抚之中扼杀！&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;如果别人一说你不行，你就回家不干了，那恰恰证明你真的不行！你难道就这样无囊无气吗？回去有脸见江东父老吗？&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;或者说他在老师的身上才认识了“父亲”的含义：爱得那么深，教得那么细，管得那么严。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;有血性的人，决不曲意求得别人重视，也不怕别人忽视。’别人的误解、偏见并不可怕，可怕的是失去了自信；如果你是自信的，就什么话都不用说了。真理从来都是最简单、最朴素的，除了它本身之外，并不需要额外地加以解释，正如一个真正美的人，任何附加的首饰都是多余的！&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;做父亲的心是用语言难以表达的，无论是哪国语言。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;新的生活图景填补了那个缺憾，人生向她打开了另一扇通往未来的大门，由于生活清苦和感情压抑而黯淡的脸上出现了过去难得一见的光彩。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他认为“失恋”是一种耻辱，并不像一些大知识分子那样还能从中寻找出什么诗意。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;尤其令人遗憾的是，莎翁对她的结局无计可施，就让她疯，让她死，这也是使我不能接受的！她死得倒是很别致，漂在明镜似的水上，头戴奇异的花环：毛茛、荨麻、雏菊、长颈兰，轻轻地唱着古老的歌……是的，很有诗意，很美，可是，这美还有什么意思呢？我不能欣赏这病态的美、死亡的美，我要看到的是健康的人生，那才是真正的美、生命的美！&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他不敢让女儿看他的眼睛，怕她透过父亲的笑容，看到埋藏在里面的深深的痛苦。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;往日的情景，清晰地浮现在眼前，那不是梦，那是真真切切的现实，是她亲身经历过的，永远也不会忘的。十七八岁少女的心，纯净得像一面镜子，印在上面的影像，将会记一辈子……&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;只有谎言才拼命鼓吹，唯恐别人不相信。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;人的内心深处总有属于自己的一点儿隐秘，新月也有，一种飘忽不定的思绪，常常搅扰着她的心，却又难以捉摸，难以把握，像一个猜不透的谜，常常在夜深人静之时缠绕在脑际，苦思而不得其解，久久难以入睡。这使她烦恼，使她痛苦，却又不能求助于任何人。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;每一个收藏者都希望自己是它们的最后一个主人，为了使自己拥有这个权利而互相争夺，从而使它们的身价倍增。而实际上，谁也不是它们的永久的主人，而只是暂时的守护者。玉寿千年，人生几何？高价抢购，精心收藏，到头来却不知落入何人之手！&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;看来爱神在和死神赛跑，小伙子们和姑娘们要抢在战争前面享受他们应得的爱情！&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;课堂上，讲授英国文学史的教授在头头是道地分析乔叟的长诗《善良女子的故事》，学生却在下面议论希特勒和墨索里尼的阴谋。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;夜尽了，天亮了，地下室铁床上的五个人都爬起来了，惺忪睡眼对望着，都有一种莫名其妙的幸运感：又活过了一天。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;每个人都有自己的心灵，自己的情感，谁也不能代替谁。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;给予我的已经太多了，怎么还能奢望得到您的爱情？您是一个健全的人，完美无缺的人，前途光辉灿烂的人；而我，却命里注定不能再返回事业之路，不能再陪伴您度过有意义的人生，有什么理由在您那负有重任的双肩上再增加负担？又怎么忍心拖着您和我一起坠入深渊！原谅我，我不能接受您的爱情，仅仅做师生和朋友已经足够了，让我们永远记住这高尚纯洁的情感！也许，我们之间并不存在爱情，爱情是什么？每个人都有不同的答案，但我想，爱情总不等于同情、怜悯和自我牺牲吧？&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我珍藏着美好的过去，并将在千遍万遍的回忆中度过自己的余生，直到这颗不可救药的心脏停止跳动。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;在跨进这道门槛之前自认为顺理成章的一切，跨进门槛后都变得荒谬绝伦。当他重新面对妻子的时候，才突然发觉原来妻子对他怀着这么强烈的爱，而在过去的岁月里却被他漠视了，正因为这样，他才会在变换了环境之后像一个初涉世事的少年那样去认识、去经历另一场爱！&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;十年认识了一个人，三十年懂得了人生，这不也是付出的岁月换取的收获吗？她比过去清醒了，不再糊涂了！&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;没关系；被人妒忌也是一种幸福啊！&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;“楚老师，鲁迅为什么要写《起死》？”“也许，他要唤醒沉睡的人生……”“庄子为什么要给五百年前的骷髅‘起死’？”“也许，是要他重新生活一次。人生虽然艰难，生命毕竟可贵。庄子认为，人生应该像鲲鹏展翅，扶摇而上九万里，绝云气，负青天！”&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Nov 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/sougua/%E7%A9%86%E6%96%AF%E6%9E%97%E7%9A%84%E8%91%AC%E7%A4%BC/</link>
+        <guid isPermaLink="true">http://localhost:4000/sougua/%E7%A9%86%E6%96%AF%E6%9E%97%E7%9A%84%E8%91%AC%E7%A4%BC/</guid>
+      </item>
+    
+      <item>
+        <title>有一点怀疑作者的三观：《穆斯林的葬礼》</title>
+        <description>&lt;h1 id=&quot;穆斯林的葬礼&quot;&gt;穆斯林的葬礼&lt;/h1&gt;
+
+&lt;h4 id=&quot;1031&quot;&gt;10.31&lt;/h4&gt;
+
+&lt;p&gt;从今天开始入新坑了。&lt;/p&gt;
+
+&lt;p&gt;看了开头两张，觉得大有言情小说的架势，大概正所谓文笔好的言情小说流传下来成了流行文学，文笔差的被主流封杀只能在网络上存活吧。&lt;/p&gt;
+
+&lt;p&gt;看了个开头，猜到沈子奇就是易卜拉欣是很简单的事情。看到沈子奇和沈太太为女儿和儿子的不同命运而吵架，吃瓜群众立刻敏锐的察觉到一丝隐秘八卦的气息。最后还是没忍住对小说人物的不满之情跑去百度了一番，果然吃瓜群众的猜想得到了证实：妹妹果然是私生女。但是后来看到百度提到妹妹因为是回族，没有和汉族恋人结婚，十分不解，于是又跑去百度了一番：这下从知乎和豆瓣看到了许多奇异的故事，也算是扩大了世界观了。原来虔诚的教徒对无信仰的民族排斥之情竟然达到如此的地步，果然盲信是科学发展的一大阻力。只是没有想到在21世纪的今天，机器的智慧都达到如此水平，超级英雄在电影里不知道拯救了多少次地球，科学理念的差距却仍然有如此大的差异。想起以前身边也有很少的回族同学，与他们的交谈中也从未感受到他们对于汉族不同文化的介意之情，想来大概知识确实对一个人的思想有很大的改变。信仰本身无错，但是信仰也应该具有广泛的包容性，这样才可以理性而不盲从，心平气和而不心怀仇恨。总觉得大概是有宗教主义者利用民众的意煽动性歪曲了古老的宗教理念。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;112&quot;&gt;11.2&lt;/h4&gt;
+
+&lt;p&gt;现在是越来越喜欢这本书了，也很着迷于作者的文笔。与陀氏都是擅长写长段描写的人，但又很不一样。陀氏的长段是一种湍流不息的奔腾的江水，而霍达是涓涓流淌、温和宽厚的大河。以及在写新月的大学生活的时候又一次被深深的感染了：她的大学就是我在高中时代幻想的大学吧，读书、学文学。可是文学在这个时代只能做为一种爱好，似乎与学习和事业相隔万水千山了。&lt;/p&gt;
+
+&lt;p&gt;这本书看起来毫不费力，也不像卡拉马佐夫兄弟那样有时使人看着会感到累。&lt;/p&gt;
+
+&lt;p&gt;在网上看相关采访的时候，被作者的一句话深深戳动了：“现在这个时代的年轻人有房有车，不缺物质，但是他们体验不到以前的那种爱情。”&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 Oct 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/%E6%9C%89%E4%B8%80%E7%82%B9%E6%80%80%E7%96%91%E4%BD%9C%E8%80%85%E7%9A%84%E4%B8%89%E8%A7%82-%E7%A9%86%E6%96%AF%E6%9E%97%E7%9A%84%E8%91%AC%E7%A4%BC</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/%E6%9C%89%E4%B8%80%E7%82%B9%E6%80%80%E7%96%91%E4%BD%9C%E8%80%85%E7%9A%84%E4%B8%89%E8%A7%82-%E7%A9%86%E6%96%AF%E6%9E%97%E7%9A%84%E8%91%AC%E7%A4%BC</guid>
+      </item>
+    
+      <item>
+        <title>Pytorch collections</title>
+        <description>&lt;h2 id=&quot;pytorch-problems-collect&quot;&gt;PyTorch problems collect&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;cited from &lt;a href=&quot;https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html&quot;&gt;60 min blitz&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;1-numpy-bridge&quot;&gt;1. NumPy Bridge&lt;/h3&gt;
+
+&lt;p&gt;Converting a Torch Tensor to a NumPy array and vice versa:&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;torch&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ones&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;b&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;numpy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ones&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;b&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;torch&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;from_numpy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The Torch Tensor and NumPy array will &lt;strong&gt;share their underlying memory locations&lt;/strong&gt; (if the Torch Tensor is on CPU), and changing one will change the other.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-cuda-tensors&quot;&gt;2. CUDA Tensors&lt;/h3&gt;
+
+&lt;p&gt;Tensors can be moved onto any device using the &lt;code class=&quot;highlighter-rouge&quot;&gt;.to&lt;/code&gt; method.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# let us run this cell only if CUDA is available
+# We will use ``torch.device`` objects to move tensors in and out of GPU
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;torch&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cuda&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;is_available&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;device&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;torch&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;device&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;cuda&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;          &lt;span class=&quot;c1&quot;&gt;# a CUDA device object
+&lt;/span&gt;    &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;torch&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ones_like&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;device&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;device&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;# directly create a tensor on GPU
+&lt;/span&gt;    &lt;span class=&quot;c1&quot;&gt;# could simply use x.cuda()
+&lt;/span&gt;    &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;to&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;device&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;                       &lt;span class=&quot;c1&quot;&gt;# or just use strings ``.to(&quot;cuda&quot;)``
+&lt;/span&gt;    &lt;span class=&quot;n&quot;&gt;z&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;to&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;cpu&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;torch&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;double&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;       &lt;span class=&quot;c1&quot;&gt;# ``.to`` can also change dtype together!
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Out:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;tensor([0.6313], device='cuda:0')
+tensor([0.6313], dtype=torch.float64)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;3-autograd-package&quot;&gt;3. &lt;code class=&quot;highlighter-rouge&quot;&gt;autograd&lt;/code&gt; package&lt;/h3&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;torch.Tensor&lt;/code&gt; is the central class of the package. If you set its attribute &lt;code class=&quot;highlighter-rouge&quot;&gt;.requires_grad&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;True&lt;/code&gt;, it starts to track all operations on it. The tensors created as a result of an operation wiil have a &lt;code class=&quot;highlighter-rouge&quot;&gt;grad_fn&lt;/code&gt;.When you finish your computation you can call &lt;code class=&quot;highlighter-rouge&quot;&gt;.backward()&lt;/code&gt; and have all the gradients computed automatically. The gradient for this tensor will be accumulated into &lt;code class=&quot;highlighter-rouge&quot;&gt;.grad&lt;/code&gt; attribute.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;torch&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ones&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;requires_grad&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;torch&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;randn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;requires_grad_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;gradients&quot;&gt;Gradients&lt;/h4&gt;
+
+&lt;p&gt;Call &lt;code class=&quot;highlighter-rouge&quot;&gt;.backward()&lt;/code&gt; to backprop.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;z&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;out&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;backward&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Because &lt;code class=&quot;highlighter-rouge&quot;&gt;out&lt;/code&gt; contains a single scalar, &lt;code class=&quot;highlighter-rouge&quot;&gt;out.backward()&lt;/code&gt; is equivalent to &lt;code class=&quot;highlighter-rouge&quot;&gt;out.backward(torch.tensor(1.))&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Print gradients d(out)/dx:&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;grad&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Mathematically, if you have a vector valued function $\vec{y}=f(\vec{x})$, then the gradient of $\vec{y}$ with respect to $\vec{x}$ is a Jacobian matrix:
+&lt;script type=&quot;math/tex&quot;&gt;% &lt;![CDATA[
+J=\left(\begin{array}{ccc}{\frac{\partial y_{1}}{\partial x_{1}}} &amp; {\cdots} &amp; {\frac{\partial y_{1}}{\partial x_{n}}} \\ {\vdots} &amp; {\ddots} &amp; {\vdots} \\ {\frac{\partial y_{m}}{\partial x_{1}}} &amp; {\cdots} &amp; {\frac{\partial y_{m}}{\partial x_{n}}}\end{array}\right) %]]&gt;&lt;/script&gt;
+Generally speaking, &lt;code class=&quot;highlighter-rouge&quot;&gt;torch.autograd&lt;/code&gt; is an engine for computing vector-Jacobian product. Given a vector $v=\left(\begin{array}{llll}{v_{1}} &amp;amp; {v_{2}} &amp;amp; {\cdots} &amp;amp; {v_{m}}\end{array}\right)^{T}$, it computes $v^{T} \cdot J$. If $\vec{v}$ happens to be the gradient of a scalar function $l=g(\vec{y})$, that is, $v=\left(\begin{array}{ccc}{\frac{\partial l}{\partial y_{1}}} &amp;amp; {\dots} &amp;amp; {\frac{\partial l}{\partial y_{m}}}\end{array}\right)^{T}$, then by the chain rule, the vector-Jacobian product would be the gradient of $l$ with respect to $\vec{x}$:
+&lt;script type=&quot;math/tex&quot;&gt;% &lt;![CDATA[
+J^{T} \cdot v=\left(\begin{array}{ccc}{\frac{\partial y_{1}}{\partial x_{1}}} &amp; {\cdots} &amp; {\frac{\partial y_{m}}{\partial x_{1}}} \\ {\vdots} &amp; {\ddots} &amp; {\vdots} \\ {\frac{\partial y_{1}}{\partial x_{n}}} &amp; {\cdots} &amp; {\frac{\partial y_{m}}{\partial x_{n}}}\end{array}\right)\left(\begin{array}{c}{\frac{\partial l}{\partial y_{1}}} \\ {\vdots} \\ {\frac{\partial l}{\partial y_{m}}}\end{array}\right)=\left(\begin{array}{c}{\frac{\partial l}{\partial x_{1}}} \\ {\vdots} \\ {\frac{\partial l}{\partial x_{n}}}\end{array}\right) %]]&gt;&lt;/script&gt;
+For example,&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;torch&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;randn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;requires_grad&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;norm&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Now in this case &lt;code class=&quot;highlighter-rouge&quot;&gt;y&lt;/code&gt; is no longer a scalar. &lt;code class=&quot;highlighter-rouge&quot;&gt;torch.autograd&lt;/code&gt; could not compute the full Jacobian directly, but if we just want the vector-Jacobian product, simply pass the vector to &lt;code class=&quot;highlighter-rouge&quot;&gt;backward&lt;/code&gt; as argument:&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;v&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;torch&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tensor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;1.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.0001&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dtype&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;torch&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;backward&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;v&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;4-neural-networks&quot;&gt;4. Neural networks&lt;/h3&gt;
+
+&lt;p&gt;Neural networks can be constructed using the &lt;code class=&quot;highlighter-rouge&quot;&gt;torch.nn&lt;/code&gt; package.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;nn&lt;/code&gt; depends on &lt;code class=&quot;highlighter-rouge&quot;&gt;autograd&lt;/code&gt; to define models and differentiate them. An &lt;code class=&quot;highlighter-rouge&quot;&gt;nn.Module&lt;/code&gt; contains layers, and a method &lt;code class=&quot;highlighter-rouge&quot;&gt;forward(input)&lt;/code&gt;that returns the &lt;code class=&quot;highlighter-rouge&quot;&gt;output&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;A typical training procedure for a neural network is as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Define the neural network that has some learnable parameters (or weights)&lt;/li&gt;
+  &lt;li&gt;Iterate over a dataset of inputs&lt;/li&gt;
+  &lt;li&gt;Process input through the network&lt;/li&gt;
+  &lt;li&gt;Compute the loss (how far is the output from being correct)&lt;/li&gt;
+  &lt;li&gt;Propagate gradients back into the network’s parameters&lt;/li&gt;
+  &lt;li&gt;Update the weights of the network, typically using a simple update rule: &lt;code class=&quot;highlighter-rouge&quot;&gt;weight = weight - learning_rate * gradient&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;torchnnconv2d&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;torch.nn.Conv2d&lt;/code&gt;&lt;/h4&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;torch&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;nn&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Conv2d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;in_channels&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;out_channels&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;kernel_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;stride&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dilation&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;groups&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bias&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Collected problems&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;5-nnvariable&quot;&gt;5. &lt;code class=&quot;highlighter-rouge&quot;&gt;nn.Variable&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h4 id=&quot;nnparameter&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;nn.Parameter&lt;/code&gt;&lt;/h4&gt;
+
+&lt;p&gt;Parameter, in its raw form, is a tensor i.e. a multi dimensional matrix. It sub-classes the Variable class.&lt;/p&gt;
+
+&lt;h3 id=&quot;6-nnforward&quot;&gt;6. &lt;code class=&quot;highlighter-rouge&quot;&gt;nn.forward&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt;In an outer forward function,&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;forward&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nodes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;embeds&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;enc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;nodes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;# call self.enc.forward(nodes)
+&lt;/span&gt;	&lt;span class=&quot;n&quot;&gt;scores&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;weight&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mm&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;embeds&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;scores&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;When you call the model directly, the internal &lt;code class=&quot;highlighter-rouge&quot;&gt;__call__&lt;/code&gt; function is used. This function manages all registered hooks and calls forward afterwards. That’s also the reason you should call the model directly, because otherwise your hooks might not work etc.&lt;/p&gt;
+
+&lt;h3 id=&quot;7-multi-label-loss-function&quot;&gt;7. Multi-label loss function&lt;/h3&gt;
+
+</description>
+        <pubDate>Tue, 29 Oct 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/pytorch-collections</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/pytorch-collections</guid>
+      </item>
+    
+      <item>
+        <title>卡拉马佐夫兄弟</title>
+        <description>&lt;p&gt;他在热烈的祷词中，不求上帝为他消释他的不安，只求给他那种欣悦的感动心情，以前，在他赞颂过上帝以后（这是他临睡前祷词照例的内容），时常有这样的心情降到他心灵里来。降临到他身上的这种快乐的心情，引他进入轻松安静的梦乡。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他讲了许多事情，似乎想在临死之前，把一生中没有说出来的话一下子倾吐出来，再说一次，并且不仅仅是为了说教，而且仿佛是渴望无一例外地跟所有的人分享自己内心的喜悦和欢欣，再次抒发自己的胸臆……&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;但是长老答应对他说出在地上的最后一句话，而且更重要的是，把它作为对他的最后遗言，这使他的心欢欣得战栗起来。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;世间的科学集结成一股巨大的力量，特别是在最近的一世纪里，把《圣经》中给我们遗下来的一切天国的事物分析得清清楚楚，经过这个世界的学者残酷的分析以后，以前一切神圣的东西全都一扫而光了。但是他们一部分一部分地加以分析，却盲目得令人惊奇地完全忽略整体。然而，这整体仍像先前一样，地狱的门到底不能克服它。难道它不已经生活了十几世纪，至今还生活在个人的心灵的行动里和民众的行动里吗？甚至就在破坏一切的无神派自己的心灵里，它也仍旧不可动摇地存在着！因为即使是那些抛弃基督教，反抗基督教的人自己，实质上也仍然保持着他们过去一直保持着的基督的面貌，因为直到现在，无论是他们的智慧或者他们的热情，都还没有力量创造出另一个比古基督所规定的形象更高超的人和道德的形象来。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;你已经被你那即将去世的长老派到尘世里去。也许当你想起今天这个重大的日子来的时候，也不会忘记我作为衷心的临别赠言，对你所说的这些话的，因为你年纪还轻，而世上的诱惑很大，不是你的力量所能经受。
+&lt;br /&gt;
+他已经忙着赶快使少年的心灵武装起来，以便和诱惑进行斗争，为遗交给他的少年的心灵修筑一道他所能想象得到的最坚固的围墙。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;过龌龊的生活比较甜蜜；大家都咒骂它，可是谁都在过这种生活，只不过人家是偷偷地，而我是公开的。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我只有同你在一块，才偶尔有心平气和的时候，除此以外我完全是个性情毒辣的人。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;经过一夜，战士们积蓄了新的力量，随着白天的来到，他们的心肠变得更坚硬。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;大人如果想一下子就获得小孩的信任，特别是一大堆小孩的信任，就非得这样开头不可的。一定要一开始就用正经和实际的态度和他们谈话，完全和他们站在平等的地位上。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他总觉得她不会爱上像伊凡那样的人，而只能爱他的长兄德米特里，爱的就是他那种本来的面目，虽然这爱情是很离奇的。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;但您是需要他的，因为借此可以不断地默察自己坚守忠实的苦行，同时责备他的不忠实。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;“她很骄傲，自己鞭策着自己，但却是一个善良、优雅而宽宏的人！”&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;“您不要相信女人的眼泪，阿历克赛·费多罗维奇——在这种事情上，我永远反对女人，赞成男人。”&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他借着沉浸于其他的念头来排遣心事，并且决心不去“思考”刚才他闯下的“祸事”，不再用悔恨来折磨自己，一心只想办实际的事情，至于那件事，就顺其自然吧。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;这种低三下四的习惯是在屈辱中养成的。”&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;对天地间的一切，他不愿有所赐福。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;学校里的小孩子是没有同情心的，如果将他们单个分开来，他们是天使，但把他们聚在一起，尤其是在学校里，他们就常常变得毫无同情心了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;凡是平素沉默和骄傲的孩子，自己会长时间勉强憋住眼泪，在碰到特别伤心的事情时，才会一下子忍不住爆发出来，那时候不但眼泪会流出来，还会像泉水似的滚滚直涌。当时，他的滚滚热泪一下子把我的脸全弄湿了。他像得了抽风似的号啕痛哭，全身哆嗦，紧紧地抱住我，我坐在石头上面。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他的心灵由于流泪而颤抖起来。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;对待人应该像侍候小孩一样，而对某些人更应该像侍候医院里的病人一样……”&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;您像小姑娘那样地笑，却像殉道者那样思考问题……&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我深深地知道，我的青春将战胜一切：一切的失望，一切对于生活的厌恶。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;尽管我不相信宇宙间的秩序，然而我珍重那到了春天舒展开来的嫩叶，我珍重蔚蓝的天，珍重一些人，对于他们，你信不信，有时候你自己也不知道为什么会那样热爱，还珍重一些人类的业绩，对于这些，你也许早就不再相信，但到底由于旧印象，还是要从心中产生敬意。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;在那里躺着一些珍贵的死人，每块墓碑上都写着那过去的、灿烂的生命，那对于自己的业绩、自己的真理、自己的奋斗、自己的科学所抱的狂热的信仰。我早就知道，我会匍匐在地，吻着那些墓碑，哭它们——但同时我的心里却深知，这一切早已成为坟墓，仅仅不过是坟墓而已。我哭泣并不是由于绝望，而只是因为能从自己的泪水中得到快乐，为自己的伤感所沉醉。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;“热爱生活本身甚于爱它的意义。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;为她受了折磨，她也折磨了我。我长期厮守着她……现在忽然一切都烟消云散了。我不久前还满腔热情，可是刚从那里走出来，我就立刻恍然失笑了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;就是此刻我也还是非常喜欢她，可是同时我离开她又感到那么轻松。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;她也许需要十五年或者二十年才能觉悟到，她根本并不爱德米特里，而只爱她折磨着的我。甚至也可能永远不会觉悟，尽管经过了今天的这个教训。所以最好是伸伸腿站起来，从此一走了之。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;上帝赐给女人歇斯底里，是给她们的一种恩惠。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我像婴儿一般深信，创伤终究会愈合、平复，一切可恼和可笑的人间矛盾也终将化为可怜的海市蜃楼，像无力的、原子般微小的、欧几里得式的人类脑筋里的无聊虚构而销声匿迹，在宇宙的最后终局，在永恒的和谐到来的时刻，终将产生和出现某种极其珍贵的东西，使一切人心得以受用，以慰藉一切愤懑，宽恕人类所犯的一切的罪恶，补偿人们所流出来的鲜血，谅解人间所曾经发生的一切。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;假如魔鬼并不存在，实际上是人创造了它，那么人准是完全照着自己的模子创造它的。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我宁愿执着于我的未经报复的痛苦和我的未曾消失的愤怒。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;假使我果真还有力量顾得上滋润的嫩叶，那么只要我一想起你，就还会对它们产生爱的。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;有许多，甚至过多对生活的期待，却连自己也完全说不清究竟在期待什么，甚至究竟想要些什么。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;这也许是由于年轻的无经验和年轻的虚荣心而来的一种年轻的懊丧，为了不善于抒发自己的意见而遗憾。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;“让以前的事都过去吧，和以前的世界一刀两断，再不想听到它的任何情况，任何消息，到一个新的世界，新的地方去，从此不再回头！”但他的心里不但不觉得欢快，却反而突然笼罩上一片阴影，一种有生以来从未感到过的哀伤在心头滋生。他一整夜都在沉思；火车飞驰着，直到清晨快到莫斯科的时候，他才似乎忽然清醒了过来：“我是个下贱的人！”他心里暗自说。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;费多尔·巴夫洛维奇觉得心乱如麻，但是他的心还从来没有像现在这样，充满着甜蜜的希望：差不多可以肯定，这回她一定会来了！……&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;一粒麦子不落在地里死了，仍旧只是一粒；若是落在地里死了，就会结出许多粒麦子来。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;你应该离开这里，在尘世中像修士那样地生活。你会有许多敌人，但就连你的敌人也会爱你的。生活将给你带来许多不幸，但你会恰恰为了这些不幸而感到幸福，并且祝福生活，还使别人也祝福——这是最重要的。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;现在我想把这个年轻人——我哥哥的故事讲出来，因为在我的一生中，再没有另外一种显示比它更为宝贵、更为动人和富有预言的意味了。我的心深受感动。在这时候，我反省我的一生，好像又重头经历了一次……&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;妈妈，你不要哭，生活就是天堂，我们大家都活在天堂里，可是我们却不愿意知道这个，如果愿意知道，那么明天全世界就都会成为天堂了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;每一个人的确都在众人面前对一切人和一切事担有种种罪责。我不知道怎样给你讲明白，可是我痛切地深深感到是这样的。所以我们怎么能活在那里，生着气，却一点也不自觉这一点呢&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;用得着计算什么日子，人只要有一天就可以体会到全部的幸福。亲爱的，我们干吗要争吵，互相夸耀，互相记仇。我们大家只应该到花园里去，游玩，嬉戏，互相亲爱，互相夸奖，亲吻，为我们的生活祝福。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我当时走出去玩耍去了。后来，我一生中有许多次含泪想起，他怎样吩咐我替他生活下去。他还说了许多像这样奇怪，美丽，但当时我们还不了解的话。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我曾大哭一场。我那时很年轻，还是一个孩子，但是一种不可磨灭的印象，一种深藏的感情，却一直留在我的心上。到了时候全会复活过来，发出回响。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我现在回忆的时候，好像还能看见熏烟怎样从香炉里升起，静悄悄地袅袅上升，阳光从圆顶上狭窄的小窗里倾泻到教堂中我们的头上，而香烟弯弯曲曲地升上去，就好像融化在阳光里一般。我感动地望着，有生以来第一次在心灵里有意识地种下了上帝的话语的种子。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我的全部童年生活，现在好像又重新出现在我的面前，我现在仿佛又像当时那样，以一个八岁小孩的胸脯呼吸，又跟当时一样地感到又惊喜又敬畏。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;旧的悲愁，由于人生的伟大的神秘，会渐渐转化为宁静的、感人的欢乐，而年轻的、沸腾的热血将由驯顺的、明朗的暮年所取代；我祝福着每天的日出，我的心也依旧对它歌颂，但是我现在却更爱日落，爱它那长长的斜晖和随之而来的宁静，温驯，动人的回忆，整个漫长而幸福的一生中各种可爱的形象。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我将用秘密的痛苦来清赎这一切。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;即使你远在天涯，只要还活在世上，那么每当我一想到你还活着，知道这一切，并且在那里谴责我，就总是会感到无法忍受的。我恨你，好像你是造成一切的原因，一切全都怪你。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;既然一个人已经习惯于满足自己想出来的无数需要，那还怎么能叫他放弃自己的习惯，这样一个身不由己的人又能走向何处？他既已孤身独处，人类的整体与他又有什么相干。结果是：他们达到财物越积越多的目的，但快乐却变得越来越少。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;只有在人的精神品格里，才能找到平等，&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我总是在想：“地狱是什么？”我觉得它应该是“由于不能再爱而受到的痛苦”。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他们是自愿的殉难者。因为他们诅咒上帝和生命，因而也就自己诅咒了自己。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他们以恶意的骄傲为养命之源，好像沙漠中的饥者开始从自己身上吸取自己的血。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;你的伤感的眼泪只会使你得到精神的休息，使你可爱的心重获快乐。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;好久以来，这个人在他面前已成为一个无可争辩的典范，以至于他的全部青春的力量和对未来的憧憬，不能不专注地倾注。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;对于牵涉到自己的一切固然感觉极为锐敏，对于理解别人的情感和感触却非常迟钝——这主要是由于他年纪太轻，缺乏阅历，另外也是由于他的自私。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我一生只施舍了一棵葱，我的善行只有这一点点。你以后不必夸奖我，阿辽沙，不要把我当作好人，我是邪恶的，很恶很恶的，你再加夸奖，就会弄得我十分惭愧。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;你看见我就扭过身子，垂下眼睛，走了过去。我却望着你已经望了一百遍、一千遍，向每个人打听你的情形。你的面容深深印在我的心里。我心想：他瞧不起我，连看都不愿意看一下。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;全世界里谁也不会看见，也不会知道，只要夜幕一降临，我就仍旧跟五年以前还是小姑娘的时候一样，时常躺在那里，咬牙切齿，整夜哭泣。总是想着：‘我一定要报复他，一定要报复他！’&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;这时我突然想道：他一来，对我吹着口哨，唤我一声，我就会像一只挨了打的小狗一般，摇尾乞怜地连忙爬到他的面前去！想到这里，我自己也怀疑起自己来：‘我到底是不是一个下贱的女人？&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我简直爱上了五年来没有断过的眼泪。……也许我只是爱我所受的委屈，并不是爱他！&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;说说伤心话可以让心灵得到点安慰……没有它，人们的悲伤就会重得受不了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;明明有宽广、笔直、光明的，像水晶一般的，它的前面就是太阳。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;凡爱人的必爱他们的快乐……&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;所有真实和美丽的东西，永远充满了宽恕一切的精神。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他倒在地上时是软弱的少年，站起来时却成了一个坚定的战士，&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他时时刻刻疯狂地幻想着。他渴望这样地复活和革新他以往出于自己的意志而陷进去的这个污秽的泥沼，使他感到实在再也无法忍受和很多处于这种境况的人一样，他最相信环境的变更：只要不是这些人，只要不是这个环境，只要脱离这个可诅咒的地方，一切就可以复活，一切就可以重新做起！这是他所深信的，这是他日夜所向往的。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他是属于那种好吃醋的男人，这类人和心爱的女人分手以后，马上会造出不知道多少关于她在那里做什么事情、她怎样“变心”的可怕的想象，但是当他带着垂头丧气的样子，肯定无疑地深信她已经变了心，又跑到她的面前的时候，只要一看到她的脸，看到那个女人嬉笑、欢乐、和蔼的脸，就会立即重新振作精神，立即抛掉了一切疑心，怀着又欢喜又惭愧的心情责骂自己太好吃醋。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;这只是表明，在他对这女人的爱情里，还包含着一点比他自己所设想的要高尚得多的东西，不仅仅只是情欲。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;“以前我是应有尽有，现在是两手空空！”&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我是卑鄙的，可是我对于自己感到满足。但尽管这样，我却因为我的卑鄙和自满而感到痛苦。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;然而尽管如此，他却还是不能同以往的一切，同已成过去但仍在折磨他的一切彻底分手，他痛苦地感到这一点，这个念头悲哀地牢牢纠缠在他的心头。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他心里还从来没有对他命中注定遇到的这个女人涌起过如此强烈的爱，如此新颖的、从未体味过的感情，简直连他自己都料想不到的感情，温柔到了崇拜甚至在她面前仿佛自我消亡的感情。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;欲加之罪，何患无辞？&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我不是爱他，只是爱我自己的怨恨。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;在她哭肿了的脸上显出了微笑，眼睛在半明半暗的朦胧中闪闪发光，“刚才一只鹰突然走了进来，我的心猛然一沉，马上悄悄地对自己说：‘你这傻瓜，你爱的就是这个人哪。’你一走进来，就使一切都变得明朗了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;为了这样的一分钟，我可以交出整个世界。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;像这样夜晚雪光耀眼、月亮照人的时候，我简直好像不在人世间似的……&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他的性格的全部缺点，似乎在于他自视比他的真正的品德略为高些。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;也不知是由于谁的眼泪呢，还是由于我的母亲在向上帝祷告，或是由于光明的神在这时候吻了我一下——我不知道，但是当时魔鬼被战胜了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;这一夜里我明白了许多事情！我明白了不仅做一个卑鄙的人活着不行，连作为一个卑鄙的人死去也是不行的。……不对，诸位，死也应该死得正直！&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;这是为了使你们也感到惭愧，你们自己也会感到吃惊，人类情感欲望所产生的谋划会达到多么卑鄙的程度。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;人有时候撒谎，一定是为了什么原因吗？&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;十四年来，她固然爱他爱得忘掉一切，但是为他所受的痛苦恐怕比她所享到的快乐还要多得多。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我深信我们所做的蠢事，比我们想象的要多得多。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我的急于表现自己，并不是由于虚荣，而是不知不觉，自己也不知为什么，是由于快乐吧，的确，似乎是由于快乐
+……尽管一个人因为快乐就搂住不管谁的脖子，那是一种十分可耻的脾气。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我有时不知道为什么心里总以为大家在那里笑我，全世界都在那里笑我，在那种时候，我简直准备摧毁世上的一切常规。一个人有时显得可笑，或者似乎显得可笑，这有什么稀奇呢？现在差不多所有有才干的人，都怕成为可笑的人，因此才感到不幸。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+但要紧的，正是不该跟大家一样。他看出，她不大相信他的这些安慰的话，但她把自己的忧愁倾吐了出来，说出了心里话，这样她至少会觉得痛快些。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;这一切都会很快，很快地过去，万物都在变，最后会归于虚无，&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;干吗要过真实的生活，还不如幻想的好。可以幻想出极快乐的事情来，而现实生活却是沉闷的。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;大家全说他们憎恶坏事，暗地里却都爱它。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;“他并不是瞧不起什么人，”阿辽沙继续说，“他只是不相信任何人。既然不相信，自然也就瞧不起了。”&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;头脑并没有丢失，而是在头脑里装着的东西遗失了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;这就是为什么我还能看、还能想的缘故……是因为有那些尾巴，而并不是因为我有灵魂。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我也不明白，又含混，又不清楚，却很聪明。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;所有一切卑鄙龌龊的事情，他们都可以找到这种造福社会的借口的！&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我早就想在这里，在这剥落的牢墙里面，对你倾吐许多话，但是却还一直闭口没谈最主要的一件事：时间似乎还没
+有到。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他原来就藏在我的心里，但如果没有这次的这一声晴天霹雳，他是永远也不会出现的。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我现在害怕的是另一件事：我就怕那个复活的人又离开了我！就在那里，矿山里，地底下，自己的身边，在同样的囚犯和凶手的身上，也可以找到一颗人类的心，和它融合无间的。因为在那边也可以生活，也可以爱和悲伤的！可以使囚犯身上僵化了的心复活起来，可以花费许多年的光阴来照顾他，最后终于从黑暗的深渊中培育出高尚的心灵、慈悲的胸怀，让天使再生，使英雄复活。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;现在我觉得我身上的力量多么充沛，我可以克服一切，克服任何的悲哀，只要能随时对自己说：‘我存在着！’在千万种苦难中——我存在着，尽管在苦刑下浑身抽搐——但我存在着！尽管坐在一根柱子顶上苦修，但是我存在着，我看得见太阳，即使看不见，也知道有它。知道有太阳——那就是整个的生命。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;人们在那里生活着，却一点也不去想它。真是徒然地活着！伊凡没有上帝。他有理想。不是和我相同的范畴。但是他沉默着。我以为他是共济会员。我问过他——他沉默着。我想在他的泉水里喝一口水——他沉默着。只有一次说了一句话。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;有许多人所以诚实，就因为他们是傻瓜。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;这一切忽然使阿辽沙看清了他不幸的哥哥心里那种毫无出路的深沉忧伤和无比绝望，这是他以前所从来没有想到的。他的心中，顿时充满了无限的深深哀怜之情，使得他痛苦万分。他那被刺穿的心痛得厉害。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他自己问自己：“是不是因为我在心灵上同样是凶手？”有一种隐约但却炙人的东西在刺痛他的心。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他们以为他们是起了维护信仰的作用，因为他们看见魔鬼从另一个世界里向他们露出了尖角。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;但对于生活来说，仅仅赞颂是不够的，赞颂必须经过怀疑的熔炉的考验。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;假使地上一切都合情合理，那就什么事情也不会发生了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;到底大家都生活着，现实地，而不是幻想地生活着；因为痛苦也就是生活。没有痛苦，生活里还有什么愉快；那就
+会完全变成没完没了的祈祷仪式，这固然神圣，但未免有点无聊。至于我呢？我受痛苦，却始终没有生活着。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我是某种生命的幻影，已经没有任何开端和结尾，甚至自己也忘了应该叫自己什么。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;但是游移，不安，信仰和不信仰间的斗争，有时成为像你这样有良心的人的一种磨难，简直到了宁可上吊的地步。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;但是，既然你想骗人，又何必要真理批准呢？&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我好像睁着眼睛做梦似的……我走路，说话，看得见，可是睡着了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他不是在真理的光明下站起来，就是……在仇恨中幻灭，对自己和一切人报仇，为了他替自己不信仰的事情服务。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;全部的悲剧似乎重新出现在大家面前，那样地突出，那样地凝聚，带着那样致命的、无可挽回的色彩。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;她只是出于自尊，竭力用一种歇斯底里的、强做出来的爱情，将自己和他维系在一起。这全是出于一种受伤的自尊心，因此这爱情并不像爱情，倒像是复仇。也许这种强做出来的爱情，说不定有朝一日也会成为真正的爱情，而卡嘉所希望的，也正是这样，但是米卡的变心实在伤透了她的心，使她从心底里再也无法饶恕他。复仇的时刻出乎意料地来到了，于是在这被侮辱的女人的心胸里痛苦而长期地郁积着的一切，一下子出乎意料地爆发了出来。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;可怕的地方正在于这种阴森森的案件对我们来说几乎已经不再是可怕的了！可怕的正是这个，正是我们这种习惯，而不是这个人或那个人个别的恶行。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;精神方面的一切已经消磨殆尽，但对于生活享受的渴望却十分强烈。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他的心里似乎是无意识地，而且那样早期地表现出一种胆怯的绝望。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;人生一般总是在两种互相矛盾之间寻找中庸的真理。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;良心就是忏悔，而自杀的人也许没有忏悔，只有绝望。忏悔和绝望是两件完全不同的事情。绝望常常会是恶毒的，不易驯顺的，自杀的人在动手自杀的那一瞬间，会加倍仇恨他一辈子嫉妒的人。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我们活在人世并不长，而且还常做许多错事，说许多坏话。因此我们更应当随时抓住相互交心的机会，以便彼此也能尽量说一些好话。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;你们的控诉只能使他感到轻松，使他的良心释去重负，他将诅咒他所犯下的血案，却并不感到遗憾。同时你们也在他身上扼杀了使他还能做一个人的可能性。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;有些心灵由于本性的狭窄而怨天尤人，但只要一旦用慈悲降服了它，给予它爱，它就将诅咒它的所作所为，因为它里面有着许多善良的因素。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我所过的固然是荒唐的生活，但也羡慕美德。我时时刻刻都在向往改过自新，但所过的生活还是像野兽一样。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;即使以后我们忙于办重要的大事，有了显赫的地位，或者陷入了某种巨大的不幸——你们无论如何也不要忘记，我们曾经在这里感到多么美好，我们大家同心协力，由一种美好善良的情感联系在一起——这种情感在我们爱那个可怜的小孩的时候，或许会使我们也能变成一个比目前实际的我们更好一些的人。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 29 Oct 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/sougua/%E5%8D%A1%E6%8B%89%E9%A9%AC%E4%BD%90%E5%A4%AB%E5%85%84%E5%BC%9F/</link>
+        <guid isPermaLink="true">http://localhost:4000/sougua/%E5%8D%A1%E6%8B%89%E9%A9%AC%E4%BD%90%E5%A4%AB%E5%85%84%E5%BC%9F/</guid>
+      </item>
+    
+      <item>
+        <title>配色</title>
+        <description>&lt;h2 id=&quot;配色搜集&quot;&gt;配色搜集&lt;/h2&gt;
+
+&lt;h4 id=&quot;1&quot;&gt;1.&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&amp;lt;font color=#ef475d size=3 face=”Hannotate SC”&amp;gt;#ef475d 草茉莉红&amp;lt;/font&amp;gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&amp;lt;font color=#fecc11 size=3 face=”Hannotate SC”&amp;gt;#ef475d 向日葵黄&amp;lt;/font&amp;gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&amp;lt;font color=#41ae3c size=3 face=”Hannotate SC”&amp;gt;#41ae3c 宝石绿&amp;lt;/font&amp;gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 26 Oct 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/%E9%85%8D%E8%89%B2</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/%E9%85%8D%E8%89%B2</guid>
+      </item>
+    
+      <item>
+        <title>Why women kill scripts</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;And we are offering unsolicited opinions.&lt;/li&gt;
+  &lt;li&gt;a foul mood 心情不好&lt;/li&gt;
+  &lt;li&gt;off and on 断断续续的&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;feisty 精力充沛&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;break a sweat 出汗&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Mon, 30 Sep 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/why-women-kill-scripts</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/why-women-kill-scripts</guid>
+      </item>
+    
+      <item>
+        <title>Jekyll notes</title>
+        <description>&lt;h2 id=&quot;ruby&quot;&gt;Ruby&lt;/h2&gt;
+
+&lt;h3 id=&quot;gems&quot;&gt;Gems&lt;/h3&gt;
+
+&lt;p&gt;A gem is code you can include in Ruby projects. It allows you to package up functionality and share it across other projects or with other people. Gems can perform functionality such as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Converting a Ruby object to JSON&lt;/li&gt;
+  &lt;li&gt;Pagination&lt;/li&gt;
+  &lt;li&gt;Interacting with APIs such as GitHub&lt;/li&gt;
+  &lt;li&gt;Jekyll itself is a gem as well as many Jekyll plugins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;gem命令：&lt;/strong&gt;用于构建、上传、下载以及安装Gem包。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;gemfile：&lt;/strong&gt;包含当前Ruby项目需要运行的Gems列表。&lt;/p&gt;
+
+&lt;p&gt;当我们需要为Jekyll项目添加插件时，我们可以使用Gemfiles来指定。需要在Gemfiles文件的开头，至少指定一个gem source(指向RubyGems server的url)；可以通过执行命令&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle init&lt;/code&gt;来创建一个gemfile，其默认source为&lt;code class=&quot;highlighter-rouge&quot;&gt;https://rubygems.org&lt;/code&gt;。在Gemfile中的&lt;code class=&quot;highlighter-rouge&quot;&gt;gem &quot;jekyll-seo-tag&quot;&lt;/code&gt;相当于单独执行命令&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install 'jekyll-seo-tag'&lt;/code&gt;；但前者只应用与当前项目，后者则属于全局安装与某个项目无关。&lt;/p&gt;
+
+&lt;p&gt;当我们更改了Gemfile文件后，需要运行&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;命令，该命令生成Gemfile.lock文件，并下载该文件中的gems。&lt;/p&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;bundle &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--path&lt;/span&gt; vendor/bundle
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;一般我们在初次运行 &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;时会使用&lt;code class=&quot;highlighter-rouge&quot;&gt;--path&lt;/code&gt;选项，该选项用于指定该项目中使用到的 Gems 的下载安装路径；之后使用&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;时就无需指定&lt;code class=&quot;highlighter-rouge&quot;&gt;--path&lt;/code&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;bundler&quot;&gt;Bundler&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Bundler：&lt;/strong&gt;一个用于管理应用依赖关系的通用工具，它可以跟 RubyGems 搭配使用。通过Bundler程序读取Gemfile然后下载文件中需要的Gems。用于在Ruby库中管理Rubygems依赖项。&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec&lt;/code&gt;只会使用Gemfile中该gem需要的版本。执行&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;或&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;后便会生成一个&lt;code class=&quot;highlighter-rouge&quot;&gt;_site&lt;/code&gt;目录，这就是生成的网站。使用版本控制时建议排除&lt;code class=&quot;highlighter-rouge&quot;&gt;_site&lt;/code&gt;目录。Before &lt;code class=&quot;highlighter-rouge&quot;&gt;building&lt;/code&gt; the site, it actually doesn’t exist and is just a bunch of template files。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;jeklyy&quot;&gt;jeklyy&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt;命令：该命令会使用默认的主题，创建一个新的jekyll网站框架(项目)&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;作用：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;构建站点（使用build命令）&lt;/li&gt;
+  &lt;li&gt;启动开发服务器，并在默认情况下监测文件变化并进行实时构建。任何时候发生变化将自动构建网站。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll build&lt;/code&gt;：该命令用于创建静态站点(生成&lt;code class=&quot;highlighter-rouge&quot;&gt;_site&lt;/code&gt;目录)。&lt;/p&gt;
+
+&lt;p&gt;生成文件的路径可以在&lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;中配置，路径格式类似&lt;code class=&quot;highlighter-rouge&quot;&gt;_site/2017-01-19/style-test-ko/index.html&lt;/code&gt;。其中&lt;code class=&quot;highlighter-rouge&quot;&gt;_site根目录 = url + baseurl&lt;/code&gt;，&lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt;目录为style-stest-ko，它是这篇文章的标题，最终的文章内容将保存在&lt;code class=&quot;highlighter-rouge&quot;&gt;index.html&lt;/code&gt;文件中。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;structure&quot;&gt;structure&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.
+├── _config.yml
+├── _drafts
+|   ├── begin-with-the-crazy-ideas.textile
+|   └── on-simplicity-in-technology.markdown
+├── _includes
+|   ├── footer.html
+|   └── header.html
+├── _layouts
+|   ├── default.html
+|   └── post.html
+├── _posts
+|   ├── 2007-10-29-why-every-programmer-should-play-nethack.textile
+|   └── 2009-04-26-barcamp-boston-4-roundup.textile
+├── _site
+├── .jekyll-metadata
+└── index.html
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;_configyml&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt;保存配置数据。很多配置选项都可以直接在命令行中进行设置，但是如果你把那些配置写在这儿，你就不用非要去记住那些命令了。&lt;/p&gt;
+
+&lt;p&gt;部署GitHub pages的URL配置：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; # URL
+ url:                &quot;https://fandean.github.io&quot; # the base hostname &amp;amp; protocol for your site
+ # url:                &quot;http://localhost:4000&quot; # use this url when you develop
+ baseurl:            &quot;\blog&quot; # the subpath of your site, e.g. /blog
+ # homepage URL for the website： url + baseurl = https://fandean.github.io/blog
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;To create links on the pages:&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;links&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;         &lt;span class=&quot;s&quot;&gt;Posts&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;          &lt;span class=&quot;s&quot;&gt;/&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;external&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;     &lt;span class=&quot;no&quot;&gt;false&lt;/span&gt;
+  &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;         &lt;span class=&quot;s&quot;&gt;About me&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;          &lt;span class=&quot;s&quot;&gt;/about&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;external&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;     &lt;span class=&quot;no&quot;&gt;false&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;For technical reasons, this file is &lt;em&gt;NOT&lt;/em&gt; reloaded automatically when you use &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;. If you change this file, please restart the server process using &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle update&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;indexhtml&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;index.html&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt;在站点的根目录。这个文件将是Jekyll生成站点的主页。&lt;/p&gt;
+
+&lt;p&gt;在主页上的布局：站点上任何 HTML 文件，包括主页，都可以使用 layout 和 include 中的内容作为公用的内容，如页面的 header 和 footer. 将合适的部分抽出放到布局中。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;front-matter&quot;&gt;Front matter&lt;/h3&gt;
+
+&lt;p&gt;Anything with &lt;a href=&quot;https://yaml.org/&quot;&gt;YAML&lt;/a&gt; header info will be treated as a special file in Jekyll. The front matter must be the first thing in the file and must take the form of valid YAML set between triple-dashed lines.&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;post&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Blogging Like a Hacker&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;在这两行的三虚线之间，你可以设置预定义的变量甚至创建一个你自己定义的变量。这样在接下来的文件和任意模板中或者在包含这些页面或博客的模板中都可以通过使用 Liquid 标签来访问这些变量。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;WARNING&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;如果使用 UTF-8 编码，那么文件中一定不要出现 &lt;code class=&quot;highlighter-rouge&quot;&gt;BOM&lt;/code&gt; 头字符&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;可以在页面或者博客的头信息里设置已经&lt;strong&gt;预定义好的全局变量&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;layout&lt;/code&gt;: 如果设置的话，会指定使用该模板文件。指定模板文件时候不需要文件扩展名。模板文件必须放在 &lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts&lt;/code&gt; 目录下。&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;permalink&lt;/code&gt;: 如果你需要让你发布的博客的 URL 地址不同于默认值(可在&lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;中定义)，那你就设置这个变量，然后变量值就会作为最终的 URL 地址。&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;published&lt;/code&gt;: 如果你不想在站点生成后展示某篇特定的博文，那么就设置（该博文的）该变量为 false。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;也可以设置&lt;a href=&quot;https://jekyllcn.com/docs/frontmatter/&quot;&gt;自定义的全局变量&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;_post&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;_post&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt;posts的命名必须遵循特定的格式：&lt;/p&gt;
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;yyyy-mm-dd-name_of_post.md
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;否则在编译的时候jekyll会找不到post。同时post的开头也要遵循特定格式：&lt;/p&gt;
+
+&lt;p&gt;Sample post:&lt;/p&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;post&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Welcome&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;to&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Jekyll!&quot;&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;s&quot;&gt;2019-09-21 10:23:46 -0400&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;categories&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;jekyll update&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+
+Jekyll requires blog post files to be named according to the following format:
+
+&lt;span class=&quot;sb&quot;&gt;`YEAR-MONTH-DAY-title.MARKUP`&lt;/span&gt;
+
+Where &lt;span class=&quot;sb&quot;&gt;`YEAR`&lt;/span&gt; is a four-digit number, &lt;span class=&quot;sb&quot;&gt;`MONTH`&lt;/span&gt; and &lt;span class=&quot;sb&quot;&gt;`DAY`&lt;/span&gt; are both two-digit numbers, and &lt;span class=&quot;sb&quot;&gt;`MARKUP`&lt;/span&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:&lt;span class=&quot;sb&quot;&gt;
+
+
+&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;highlight&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;pre&amp;gt;&amp;lt;code&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;language-ruby&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-lang=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;ruby&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;k&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;def&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;nf&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;print_hi&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;p&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;(&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;nb&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;name&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;p&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;)&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;nb&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;puts&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;s2&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;&quot;Hi, &lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;si&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;#{&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;nb&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;name&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;si&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;s2&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;&quot;&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;k&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;end&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;n&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;print_hi&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;p&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;(&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;s1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;'Tom'&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;p&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;)&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;c1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;#=&lt;span class=&quot;ni&quot;&gt;&amp;amp;gt;&lt;/span&gt; prints 'Hi, Tom' to STDOUT.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;categories&quot;&gt;Categories&lt;/h3&gt;
+
+&lt;p&gt;https://blog.webjeda.com/jekyll-categories/&lt;/p&gt;
+
+&lt;h2 id=&quot;gem-based-themes&quot;&gt;Gem-based themes&lt;/h2&gt;
+
+&lt;p&gt;To replace layouts or includes in your theme, make a copy in your &lt;code class=&quot;highlighter-rouge&quot;&gt;or&lt;/code&gt; directory of the specific file you wish to modify, or create the file from scratch giving it the same name as the file you wish to override.&lt;/p&gt;
+
+&lt;p&gt;For example, if your selected theme has a &lt;code class=&quot;highlighter-rouge&quot;&gt;page&lt;/code&gt; layout, you can override the theme’s layout by creating your own &lt;code class=&quot;highlighter-rouge&quot;&gt;page&lt;/code&gt; layout in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts&lt;/code&gt; directory (that is, &lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts/page.html&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;https://jekyllrb.com/docs/&lt;/li&gt;
+  &lt;li&gt;https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://faner.gitlab.io/blog/2017/07/07/jekyll安装与部署/#heading-jekyll本地安装&quot;&gt;jekyll install and deploy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;jekyll github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;YAML syntax:
+    &lt;ul&gt;
+      &lt;li&gt;https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml&lt;/li&gt;
+      &lt;li&gt;https://learnxinyminutes.com/docs/yaml/&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jekyllcn.com/docs/posts/&quot;&gt;writing blogs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/link9596/hydrogen&quot;&gt;Sample website&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 21 Sep 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/notes/jekyll-notes/</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/jekyll-notes/</guid>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,274 @@
+
+<!doctype>
+<html lang="en">
+  <head>
+    <meta content='Jekyll notes - Yunyy' name='title' />
+    <meta content='Jekyll notes - Yunyy' name='og:title' />
+    <title>Jekyll notes - Yunyy</title>
+    <link href='http://localhost:4000/images/fav.png' rel='shortcut icon'>
+<link href='http://localhost:4000/stylesheets/style.css' rel='stylesheet' type='text/css' />
+<link href='http://localhost:4000/stylesheets/syntax.css' rel='stylesheet' type='text/css' />
+
+<meta content='width=device-width, initial-scale=1.0, user-scalable=no' name='viewport'>
+<meta content='text/html; charset=utf-8' http-equiv='content-type' />
+
+  <meta content='http://localhost:4000/notes/jekyll-notes/' property='og:url' />
+  <meta content="RubyGemsA gem is code you can include in Ruby projects. It allows you to package up functionality and share it across..." property='og:description' />
+  <meta content="article" property="og:type" />
+
+<!-- - -->
+
+
+
+
+
+  </head>
+  <body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
+    <header class="tc mt4">
+      <a href="http://localhost:4000">
+        <img src="http://localhost:4000/images/fav.png" alt="Home" width="75" height="75">
+      </a>
+      <h1>Jekyll notes</h1>
+    </header>
+    <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
+      <nav class="bb b--light-gray pv4 tc" aria-label="Main">
+        
+          <a class="link blue hover-mid-gray mh2 pv1"
+             href="http://localhost:4000/">
+             Home
+           </a>
+        
+          <a class="link blue hover-mid-gray mh2 pv1"
+             href="http://localhost:4000/categories">
+             Blogs
+           </a>
+        
+          <a class="link blue hover-mid-gray mh2 pv1"
+             href="http://localhost:4000/about">
+             About
+           </a>
+        
+      </nav>
+
+      <main class="tl f6 relative pa4 pa5-ns overflow-hidden">
+        
+        <div class="markdown-body">
+          <article itemscope itemtype="">
+    <div itemprop="articleBody">
+        <h2 id="ruby">Ruby</h2>
+
+<h3 id="gems">Gems</h3>
+
+<p>A gem is code you can include in Ruby projects. It allows you to package up functionality and share it across other projects or with other people. Gems can perform functionality such as:</p>
+
+<ul>
+  <li>Converting a Ruby object to JSON</li>
+  <li>Pagination</li>
+  <li>Interacting with APIs such as GitHub</li>
+  <li>Jekyll itself is a gem as well as many Jekyll plugins</li>
+</ul>
+
+<p><strong>gem命令：</strong>用于构建、上传、下载以及安装Gem包。</p>
+
+<p><strong>gemfile：</strong>包含当前Ruby项目需要运行的Gems列表。</p>
+
+<p>当我们需要为Jekyll项目添加插件时，我们可以使用Gemfiles来指定。需要在Gemfiles文件的开头，至少指定一个gem source(指向RubyGems server的url)；可以通过执行命令<code class="highlighter-rouge">bundle init</code>来创建一个gemfile，其默认source为<code class="highlighter-rouge">https://rubygems.org</code>。在Gemfile中的<code class="highlighter-rouge">gem "jekyll-seo-tag"</code>相当于单独执行命令<code class="highlighter-rouge">gem install 'jekyll-seo-tag'</code>；但前者只应用与当前项目，后者则属于全局安装与某个项目无关。</p>
+
+<p>当我们更改了Gemfile文件后，需要运行<code class="highlighter-rouge">bundle install</code>命令，该命令生成Gemfile.lock文件，并下载该文件中的gems。</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">install</span> <span class="nt">--path</span> vendor/bundle
+</code></pre></div></div>
+
+<p>一般我们在初次运行 <code class="highlighter-rouge">bundle install</code>时会使用<code class="highlighter-rouge">--path</code>选项，该选项用于指定该项目中使用到的 Gems 的下载安装路径；之后使用<code class="highlighter-rouge">bundle install</code>时就无需指定<code class="highlighter-rouge">--path</code>。</p>
+
+<p><br /></p>
+
+<h3 id="bundler">Bundler</h3>
+
+<p><strong>Bundler：</strong>一个用于管理应用依赖关系的通用工具，它可以跟 RubyGems 搭配使用。通过Bundler程序读取Gemfile然后下载文件中需要的Gems。用于在Ruby库中管理Rubygems依赖项。</p>
+
+<p><code class="highlighter-rouge">bundle exec</code>只会使用Gemfile中该gem需要的版本。执行<code class="highlighter-rouge">bundle exec jekyll serve</code>或<code class="highlighter-rouge">jekyll serve</code>后便会生成一个<code class="highlighter-rouge">_site</code>目录，这就是生成的网站。使用版本控制时建议排除<code class="highlighter-rouge">_site</code>目录。Before <code class="highlighter-rouge">building</code> the site, it actually doesn’t exist and is just a bunch of template files。</p>
+
+<p><br /></p>
+
+<h2 id="jeklyy">jeklyy</h2>
+
+<p><code class="highlighter-rouge">jekyll new</code>命令：该命令会使用默认的主题，创建一个新的jekyll网站框架(项目)</p>
+
+<p><code class="highlighter-rouge">jekyll serve</code>作用：</p>
+
+<ol>
+  <li>构建站点（使用build命令）</li>
+  <li>启动开发服务器，并在默认情况下监测文件变化并进行实时构建。任何时候发生变化将自动构建网站。</li>
+</ol>
+
+<p><code class="highlighter-rouge">jekyll build</code>：该命令用于创建静态站点(生成<code class="highlighter-rouge">_site</code>目录)。</p>
+
+<p>生成文件的路径可以在<code class="highlighter-rouge">config.yml</code>中配置，路径格式类似<code class="highlighter-rouge">_site/2017-01-19/style-test-ko/index.html</code>。其中<code class="highlighter-rouge">_site根目录 = url + baseurl</code>，<code class="highlighter-rouge">title</code>目录为style-stest-ko，它是这篇文章的标题，最终的文章内容将保存在<code class="highlighter-rouge">index.html</code>文件中。</p>
+
+<p><br /></p>
+
+<h3 id="structure">structure</h3>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.
+├── _config.yml
+├── _drafts
+|   ├── begin-with-the-crazy-ideas.textile
+|   └── on-simplicity-in-technology.markdown
+├── _includes
+|   ├── footer.html
+|   └── header.html
+├── _layouts
+|   ├── default.html
+|   └── post.html
+├── _posts
+|   ├── 2007-10-29-why-every-programmer-should-play-nethack.textile
+|   └── 2009-04-26-barcamp-boston-4-roundup.textile
+├── _site
+├── .jekyll-metadata
+└── index.html
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h3 id="_configyml"><code class="highlighter-rouge">_config.yml</code></h3>
+
+<p>保存配置数据。很多配置选项都可以直接在命令行中进行设置，但是如果你把那些配置写在这儿，你就不用非要去记住那些命令了。</p>
+
+<p>部署GitHub pages的URL配置：</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> # URL
+ url:                "https://fandean.github.io" # the base hostname &amp; protocol for your site
+ # url:                "http://localhost:4000" # use this url when you develop
+ baseurl:            "\blog" # the subpath of your site, e.g. /blog
+ # homepage URL for the website： url + baseurl = https://fandean.github.io/blog
+</code></pre></div></div>
+
+<p>To create links on the pages:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">links</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span>         <span class="s">Posts</span>
+    <span class="na">url</span><span class="pi">:</span>          <span class="s">/</span>
+    <span class="na">external</span><span class="pi">:</span>     <span class="no">false</span>
+  <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span>         <span class="s">About me</span>
+    <span class="na">url</span><span class="pi">:</span>          <span class="s">/about</span>
+    <span class="na">external</span><span class="pi">:</span>     <span class="no">false</span>
+</code></pre></div></div>
+
+<p>For technical reasons, this file is <em>NOT</em> reloaded automatically when you use <code class="highlighter-rouge">bundle exec jekyll serve</code>. If you change this file, please restart the server process using <code class="highlighter-rouge">bundle update</code>.</p>
+
+<p><br /></p>
+
+<h3 id="indexhtml"><code class="highlighter-rouge">index.html</code></h3>
+
+<p>在站点的根目录。这个文件将是Jekyll生成站点的主页。</p>
+
+<p>在主页上的布局：站点上任何 HTML 文件，包括主页，都可以使用 layout 和 include 中的内容作为公用的内容，如页面的 header 和 footer. 将合适的部分抽出放到布局中。</p>
+
+<p><br /></p>
+
+<h3 id="front-matter">Front matter</h3>
+
+<p>Anything with <a href="https://yaml.org/">YAML</a> header info will be treated as a special file in Jekyll. The front matter must be the first thing in the file and must take the form of valid YAML set between triple-dashed lines.</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s">Blogging Like a Hacker</span>
+<span class="nn">---</span>
+</code></pre></div></div>
+
+<p>在这两行的三虚线之间，你可以设置预定义的变量甚至创建一个你自己定义的变量。这样在接下来的文件和任意模板中或者在包含这些页面或博客的模板中都可以通过使用 Liquid 标签来访问这些变量。</p>
+
+<blockquote>
+  <p><strong>WARNING</strong></p>
+
+  <p>如果使用 UTF-8 编码，那么文件中一定不要出现 <code class="highlighter-rouge">BOM</code> 头字符</p>
+</blockquote>
+
+<p>可以在页面或者博客的头信息里设置已经<strong>预定义好的全局变量</strong>:</p>
+
+<ul>
+  <li><code class="highlighter-rouge">layout</code>: 如果设置的话，会指定使用该模板文件。指定模板文件时候不需要文件扩展名。模板文件必须放在 <code class="highlighter-rouge">_layouts</code> 目录下。</li>
+  <li><code class="highlighter-rouge">permalink</code>: 如果你需要让你发布的博客的 URL 地址不同于默认值(可在<code class="highlighter-rouge">_config.yml</code>中定义)，那你就设置这个变量，然后变量值就会作为最终的 URL 地址。</li>
+  <li><code class="highlighter-rouge">published</code>: 如果你不想在站点生成后展示某篇特定的博文，那么就设置（该博文的）该变量为 false。</li>
+</ul>
+
+<p>也可以设置<a href="https://jekyllcn.com/docs/frontmatter/">自定义的全局变量</a>。</p>
+
+<p><br /></p>
+
+<h3 id="_post"><code class="highlighter-rouge">_post</code></h3>
+
+<p>posts的命名必须遵循特定的格式：</p>
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>yyyy-mm-dd-name_of_post.md
+</code></pre></div></div>
+<p>否则在编译的时候jekyll会找不到post。同时post的开头也要遵循特定格式：</p>
+
+<p>Sample post:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">title</span><span class="pi">:</span>  <span class="s2">"</span><span class="s">Welcome</span><span class="nv"> </span><span class="s">to</span><span class="nv"> </span><span class="s">Jekyll!"</span>
+<span class="na">date</span><span class="pi">:</span>   <span class="s">2019-09-21 10:23:46 -0400</span>
+<span class="na">categories</span><span class="pi">:</span> <span class="s">jekyll update</span>
+<span class="nn">---</span>
+
+Jekyll requires blog post files to be named according to the following format:
+
+<span class="sb">`YEAR-MONTH-DAY-title.MARKUP`</span>
+
+Where <span class="sb">`YEAR`</span> is a four-digit number, <span class="sb">`MONTH`</span> and <span class="sb">`DAY`</span> are both two-digit numbers, and <span class="sb">`MARKUP`</span> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:<span class="sb">
+
+
+</span><span class="nt">&lt;figure</span> <span class="na">class=</span><span class="s">"highlight"</span><span class="nt">&gt;&lt;pre&gt;&lt;code</span> <span class="na">class=</span><span class="s">"language-ruby"</span> <span class="na">data-lang=</span><span class="s">"ruby"</span><span class="nt">&gt;&lt;span</span> <span class="na">class=</span><span class="s">"k"</span><span class="nt">&gt;</span>def<span class="nt">&lt;/span&gt;</span> <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"nf"</span><span class="nt">&gt;</span>print_hi<span class="nt">&lt;/span&gt;&lt;span</span> <span class="na">class=</span><span class="s">"p"</span><span class="nt">&gt;</span>(<span class="nt">&lt;/span&gt;&lt;span</span> <span class="na">class=</span><span class="s">"nb"</span><span class="nt">&gt;</span>name<span class="nt">&lt;/span&gt;&lt;span</span> <span class="na">class=</span><span class="s">"p"</span><span class="nt">&gt;</span>)<span class="nt">&lt;/span&gt;</span>
+  <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"nb"</span><span class="nt">&gt;</span>puts<span class="nt">&lt;/span&gt;</span> <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"s2"</span><span class="nt">&gt;</span>"Hi, <span class="nt">&lt;/span&gt;&lt;span</span> <span class="na">class=</span><span class="s">"si"</span><span class="nt">&gt;</span>#{<span class="nt">&lt;/span&gt;&lt;span</span> <span class="na">class=</span><span class="s">"nb"</span><span class="nt">&gt;</span>name<span class="nt">&lt;/span&gt;&lt;span</span> <span class="na">class=</span><span class="s">"si"</span><span class="nt">&gt;</span>}<span class="nt">&lt;/span&gt;&lt;span</span> <span class="na">class=</span><span class="s">"s2"</span><span class="nt">&gt;</span>"<span class="nt">&lt;/span&gt;</span>
+<span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"k"</span><span class="nt">&gt;</span>end<span class="nt">&lt;/span&gt;</span>
+<span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"n"</span><span class="nt">&gt;</span>print_hi<span class="nt">&lt;/span&gt;&lt;span</span> <span class="na">class=</span><span class="s">"p"</span><span class="nt">&gt;</span>(<span class="nt">&lt;/span&gt;&lt;span</span> <span class="na">class=</span><span class="s">"s1"</span><span class="nt">&gt;</span>'Tom'<span class="nt">&lt;/span&gt;&lt;span</span> <span class="na">class=</span><span class="s">"p"</span><span class="nt">&gt;</span>)<span class="nt">&lt;/span&gt;</span>
+<span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"c1"</span><span class="nt">&gt;</span>#=<span class="ni">&amp;gt;</span> prints 'Hi, Tom' to STDOUT.<span class="nt">&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</span>
+
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h3 id="categories">Categories</h3>
+
+<p>https://blog.webjeda.com/jekyll-categories/</p>
+
+<h2 id="gem-based-themes">Gem-based themes</h2>
+
+<p>To replace layouts or includes in your theme, make a copy in your <code class="highlighter-rouge">or</code> directory of the specific file you wish to modify, or create the file from scratch giving it the same name as the file you wish to override.</p>
+
+<p>For example, if your selected theme has a <code class="highlighter-rouge">page</code> layout, you can override the theme’s layout by creating your own <code class="highlighter-rouge">page</code> layout in the <code class="highlighter-rouge">_layouts</code> directory (that is, <code class="highlighter-rouge">_layouts/page.html</code>).</p>
+
+<p><br /></p>
+
+<h3 id="reference">Reference</h3>
+
+<ol>
+  <li>https://jekyllrb.com/docs/</li>
+  <li>https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll</li>
+  <li><a href="https://faner.gitlab.io/blog/2017/07/07/jekyll安装与部署/#heading-jekyll本地安装">jekyll install and deploy</a></li>
+  <li><a href="https://github.com/jekyll/jekyll">jekyll github</a></li>
+  <li>YAML syntax:
+    <ul>
+      <li>https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml</li>
+      <li>https://learnxinyminutes.com/docs/yaml/</li>
+    </ul>
+  </li>
+  <li><a href="https://jekyllcn.com/docs/posts/">writing blogs</a></li>
+  <li><a href="https://github.com/link9596/hydrogen">Sample website</a></li>
+</ol>
+
+    </div>
+</article>
+        </div>
+      </main>
+    </div>
+    <footer class="mw7 center tc pt3 pb1 silver">
+        <a href="http://github.com/muan/scribble" class="link silver hover-blue pv1">笔记</a>
+      <br><img src="http://localhost:4000/images/fav2.png" alt="Yunyy" class="pt1 pb1 center" />
+    </footer>
+  </body>
+</html>

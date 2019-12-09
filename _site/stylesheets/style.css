@@ -1,0 +1,43 @@
+@import "https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css";
+
+.bg-super-white { background: #eefcfc; }
+.top-50 { top: 50% }
+.link:hover { background: url(/images/line.png) repeat-x left bottom; }
+
+.mw7.bg-white.mt4.mb3.center.br2-ns.bt.bb.ba-ns.b--light-gray {
+  font-family: -apple-system,Hannotate SC,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+  background-color: #FFFFFD;
+}
+/* Markdown styles */
+/* .markdown-body {
+  background: #fffff0;
+} */
+.markdown-body a {
+  text-decoration: none;
+  color: #357edd;
+}
+.markdown-body .highlighter-rouge {
+  padding: .25rem .5rem;
+}
+.markdown-body pre {
+  margin: 0;
+  overflow: auto;
+}
+.markdown-body > .highlighter-rouge,
+.markdown-body > blockquote {
+  padding: .5rem 4rem;
+  margin: 2em -4rem;
+}
+.markdown-body > hr {
+  margin: 2em -4rem;
+  border: 0;
+  border-bottom: 1px dotted #CCC;
+}
+.markdown-body blockquote {
+  margin:.5rem;
+  background: #fffacd;
+  border-left: .2rem solid #ffd700;
+  padding-left: 0.8rem;
+}
+
+/* end Markdown styles */

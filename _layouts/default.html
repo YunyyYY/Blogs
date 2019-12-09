@@ -1,0 +1,39 @@
+{% assign is_post = page.date %}
+<!doctype>
+<html lang="en">
+  <head>
+    <meta content='{{ page.title }} - {{ site.title }}' name='title' />
+    <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
+    <title>{{ page.title }} - {{ site.title }}</title>
+    {% include head.html %}
+  </head>
+  <body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
+    <header class="tc mt4">
+      <a href="{{ site.url }}">
+        <img src="{{ site.url }}/images/fav.png" alt="Home" width="75" height="75">
+      </a>
+      <h1>{{ page.title }}</h1>
+    </header>
+    <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
+      <nav class="bb b--light-gray pv4 tc" aria-label="Main">
+        {% for link in site.links %}
+          <a class="link blue hover-mid-gray mh2 pv1"
+             href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">
+             {{ link.name }}
+           </a>
+        {% endfor %}
+      </nav>
+
+      <main class="tl f6 relative pa4 pa5-ns overflow-hidden">
+        
+        <div class="markdown-body">
+          {{ content }}
+        </div>
+      </main>
+    </div>
+    <footer class="mw7 center tc pt3 pb1 silver">
+        <a href="http://github.com/muan/scribble" class="link silver hover-blue pv1">{{page.tag}}</a>
+      <br><img src="{{ site.url }}/images/fav2.png" alt="Yunyy" class="pt1 pb1 center" />
+    </footer>
+  </body>
+</html>

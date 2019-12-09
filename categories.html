@@ -1,0 +1,20 @@
+---
+layout: page
+title: 记录
+---
+
+
+<div id="archives">
+{% for case in site.cases %}
+  <div class="archive-group">
+
+    <h3 class="category-head">{{ case.id }}</h3>
+    {% for post in site.categories[case.name] %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    </article>
+    {% endfor %}
+  </div>
+  <br>
+{% endfor %}
+</div>
