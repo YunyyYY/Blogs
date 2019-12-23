@@ -7,13 +7,238 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Pyqt notes</title>
-        <description>&lt;h1 id=&quot;pyqt-notes&quot;&gt;PyQt Notes&lt;/h1&gt;
+        <title>忒修斯之船</title>
+        <description>&lt;h3 id=&quot;忒修斯之船&quot;&gt;忒修斯之船&lt;/h3&gt;
+
+&lt;p&gt;人会迷路，人会消失，人会被抹去然后重生。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;他觉得好像再次坠落，坠穿黑暗，除了地心引力的残酷效率之外，再也不能相信什么。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;人都会逃离改变，直到再也没有别的路可以选择。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;今晚，这是他们的家。&lt;/p&gt;
+
+&lt;p&gt;明天呢？明天的事谁说的准？&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Dec 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/sougua/%E5%BF%92%E4%BF%AE%E6%96%AF%E4%B9%8B%E8%88%B9/</link>
+        <guid isPermaLink="true">http://localhost:4000/sougua/%E5%BF%92%E4%BF%AE%E6%96%AF%E4%B9%8B%E8%88%B9/</guid>
+      </item>
+    
+      <item>
+        <title>Stochastic block model</title>
+        <description>&lt;h2 id=&quot;beta-distribution&quot;&gt;Beta distribution&lt;/h2&gt;
+
+&lt;p&gt;In probability theory and statistics, the beta distribution is a family of continuous probability distributions defined on the interval $[0, 1]$ parametrized by two positive shape parameters, denoted by $\alpha$ and $\beta$, that appear as exponents of the random variable and control the shape of the distribution. It is a special case of the Dirichlet distribution.&lt;/p&gt;
+
+&lt;p&gt;PDF: $\frac{x^{\alpha-1}(1-x)^{\beta-1}}{\mathrm{B}(\alpha, \beta)}$, where $\mathrm{B}(\alpha, \beta)=\frac{\Gamma(\alpha) \Gamma(\beta)}{\Gamma(\alpha+\beta)}$ and $\Gamma$ is the Gamma function.&lt;/p&gt;
+
+&lt;h2 id=&quot;dirichlet-distribution&quot;&gt;Dirichlet distribution&lt;/h2&gt;
+
+&lt;p&gt;$\operatorname {Dir} ({\boldsymbol {\alpha }})$ is a family of continuous multivariate probability distributions parameterized by a vector ${\boldsymbol {\alpha }}$ of positive reals. It is a multivariate generalization of the beta distribution, hence it has an alternative name of multivariate beta distribution (MBD). Dirichlet distributions are &lt;strong&gt;commonly used as prior distributions in Bayesian statistics&lt;/strong&gt;, and in fact the Dirichlet distribution is the conjugate prior of the categorical distribution and multinomial distribution.&lt;/p&gt;
+
+&lt;p&gt;PDF: $\frac{1}{\mathrm{B}(\boldsymbol{\alpha})} \prod_{i=1}^{K} x_{i}^{\alpha_{i}-1}$, where $\mathrm{B}(\boldsymbol{\alpha})=\frac{\prod_{i=1}^{K} \Gamma\left(\alpha_{i}\right)}{\Gamma\left(\sum_{i=1}^{K} \alpha_{i}\right)}$ and $\boldsymbol{\alpha}=\left(\alpha_{1}, \ldots, \alpha_{K}\right)$.&lt;/p&gt;
+
+&lt;h2 id=&quot;stochastic-block-model&quot;&gt;Stochastic block model&lt;/h2&gt;
+
+&lt;p&gt;The stochastic block model is a generative model for random graphs. This model tends to produce graphs containing communities, subsets characterized by being connected with one another with particular edge densities. For example, edges may be more common within communities than between communities. The stochastic block model is important in statistics, machine learning, and network science, where it serves as a useful benchmark for the task of recovering community structure in graph data.&lt;/p&gt;
+
+&lt;p&gt;The stochastic block model takes the following parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the number $n$ of vertices&lt;/li&gt;
+  &lt;li&gt;a partition of the vertex set ${1,\ldots,n}$ into disjoint subsets ${C_{1},\ldots ,C_{r}}$, called &lt;em&gt;communities&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;a symmetric ${r\times r}$ matrix ${P}$ of edge probabilities.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The edge set is then sampled at random as follows: any two vertices $u \in C_i$ and $v \in C_j$ are connected by an edge with probability $P_{ij}$. An example problem is: given a graph with $n$ vertices, where the edges are sampled as described, recover the groups $C_1,\ldots,C_r$.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 06 Dec 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/posts/PyQt-Notes</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/PyQt-Notes</guid>
+        <pubDate>Mon, 16 Dec 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/notes/Stochastic-block-model/</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/Stochastic-block-model/</guid>
+      </item>
+    
+      <item>
+        <title>Dealing with intractable integrals</title>
+        <description>&lt;h2 id=&quot;intractable-integrals&quot;&gt;Intractable integrals&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;https://ermongroup.github.io/cs228-notes/inference/variational/&lt;/li&gt;
+    &lt;li&gt;https://theclevermachine.wordpress.com/2012/09/22/monte-carlo-approximations/.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;monte-carlo-approximation&quot;&gt;Monte Carlo Approximation&lt;/h3&gt;
+
+&lt;p&gt;Using statistical methods we often run into integrals that take the form:
+&lt;script type=&quot;math/tex&quot;&gt;I=\int_{a}^{b} h(x) g(x) d x&lt;/script&gt;
+Sometimes such an integral can be evaluated analytically. When a closed form solution does not exist, numeric integration methods can be applied. However, numerical methods quickly become intractable for any practical application that requires more than a small number of dimensions. This is where &lt;strong&gt;Monte Carlo approximation&lt;/strong&gt; comes in.&lt;/p&gt;
+
+&lt;p&gt;Monte Carlo approximation allows us to calculate an estimate for the value of $I$ by transforming the  integration problem into a procedure of sampling values from a tractable probability distribution and calculating the average of those samples.&lt;/p&gt;
+
+&lt;p&gt;If function $g(x)$ fullfills the following two criteria:
+&lt;script type=&quot;math/tex&quot;&gt;g(x) \geq 0, x \in(a, b)&lt;/script&gt;
+and its integral is finite
+&lt;script type=&quot;math/tex&quot;&gt;% &lt;![CDATA[
+\int_{a}^{b} g(x)=C&lt;\infty %]]&gt;&lt;/script&gt;
+then we can define a corresponding probability distribution on the interval $(a, b)$
+&lt;script type=&quot;math/tex&quot;&gt;p(x)=\frac{g(x)}{C}&lt;/script&gt;
+Then we can restate the original integration as
+&lt;script type=&quot;math/tex&quot;&gt;I=C \int_{a}^{b} h(x) p(x) d x=C \mathbb{E}_{p(x)}[h(x)]&lt;/script&gt;
+If we can &lt;em&gt;sample&lt;/em&gt; values of $x$ using $p(x)$, then the value of  the original integral $I$ is simply a scaled version of the expected value of the integrand function $h(x)$ calculated using those samples. Turns out that the expected value $\mathbb E_{p(x)}[h(x)]$ can be easily approximated by the sample mean:
+&lt;script type=&quot;math/tex&quot;&gt;\mathbb{E}_{p(x)}[h(x)] \approx \frac{1}{N} \sum_{i}^{N} h\left(x_{i}\right)&lt;/script&gt;
+where samples $x_i, i = 1…N$ are drawn independently from $p(x)$. This leads to a simple 4-Step Procedure for performing Monte Carlo approximation to the integral $I$:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Identify $h(x)$&lt;/li&gt;
+  &lt;li&gt;Identify $g(x)$ and determine $p(x)$ and $C$&lt;/li&gt;
+  &lt;li&gt;Draw $N$ independent samples from $p(x)$&lt;/li&gt;
+  &lt;li&gt;Evaluate $I = C \mathbb E[h(x)] \approx \frac{C}{N} \sum_i^N h(x_i)$&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The larger the number of samples $N$ we draw, the better our approximation to the actual value of $I$.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h4 id=&quot;example-iint_01-x-ex-d-x&quot;&gt;Example $I=\int_{0}^{1} x e^{x} d x$&lt;/h4&gt;
+
+  &lt;p&gt;We can calculate the closed form solution of this integral using integration by parts:
+&lt;script type=&quot;math/tex&quot;&gt;\begin{array}{l}
+{u=x, d v=e^{x}} \\ 
+{d u=d x, v=e^{x}}
+\end{array}&lt;/script&gt;
+And the result is
+&lt;script type=&quot;math/tex&quot;&gt;% &lt;![CDATA[
+\begin{aligned}
+I &amp;=u v-\int v d u = x e^{x}-\int e^{x} d x \\ 
+&amp;=x e^{x}-\left.e^{x}\right|_{0} ^{1} =\left.e^{x}(x-1)\right|_{0} ^{1} =0-(-1)=1
+\end{aligned} %]]&gt;&lt;/script&gt;
+Next we calculate the  Monte Carlo approximation of this integral.&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;indentify $h(x)=x e^{x}$&lt;/li&gt;
+    &lt;li&gt;identify $g(x)=1$ and determine the probability distribution function $p(x) \in (a,b) = (0,1)$.&lt;/li&gt;
+    &lt;li&gt;According to the definition expression for $p(x)$ given above we detemine $p(x)$ to be $p(x)=\frac{g(x)}{\int_{a}^{b} g(x) d x}=\frac{1}{b-a}$, which is the definition for the uniform distribution $\operatorname{uni}(0,1)$.&lt;/li&gt;
+    &lt;li&gt;calculate the Monte Carlo approximation as $I=C \mathbb{E}&lt;em&gt;{p(x)} h(x)\approx \frac{1}{N} \sum&lt;/em&gt;{i=1}^{N} x_{i} e^{x_{i}}$&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;markov-chain-monte-carlo&quot;&gt;Markov chain Monte Carlo&lt;/h3&gt;
+
+&lt;p&gt;Markov chain Monte Carlo (MCMC) methods comprise a class of algorithms for sampling from a probability distribution. By constructing a Markov chain that has the desired distribution as its equilibrium distribution, one can obtain a sample of the desired distribution by recording states from the chain. The more steps that are included, the more closely the distribution of the sample matches the actual desired distribution.&lt;/p&gt;
+
+&lt;p&gt;Most sampling-based inference algorithms are instances of Markov Chain Monte-Carlo (MCMC); two popular MCMC methods are Gibbs sampling and Metropolis-Hastings.&lt;/p&gt;
+
+&lt;h3 id=&quot;variational-inference&quot;&gt;Variational inference&lt;/h3&gt;
+
+&lt;p&gt;Sampling-based methods have several important shortcomings:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Although they are guaranteed to find a globally optimal solution given enough time, it is difficult to tell how close they are to a good solution given the finite amount of time that they have in practice.&lt;/li&gt;
+  &lt;li&gt;In order to quickly reach a good solution, MCMC methods require choosing an appropriate sampling technique (e.g. a good proposal in Metropolis-Hastings). Choosing this technique can be an art in itself.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;An alternative approach to approximate inference is the &lt;strong&gt;variational family&lt;/strong&gt; of algorithms. The main differences between sampling and variational techniques are that:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Unlike sampling-based methods, variational approaches will almost never find the globally optimal solution.&lt;/li&gt;
+  &lt;li&gt;However, we will always know if they have converged. In some cases, we will even have bounds on their accuracy.&lt;/li&gt;
+  &lt;li&gt;In practice, variational inference methods often scale better and are more amenable to techniques like stochastic gradient optimization, parallelization over multiple processors, and acceleration using GPUs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The main idea of variational methods is to cast inference as an optimization problem. Suppose we are given an intractable probability distribution $p$. Variational techniques will try to solve an optimization problem over a class of tractable distributions $Q$ in order to find a $q\in Q$ that is most similar to $p$. We will then query $q$ (rather than $p$) in order to get an approximate solution.&lt;/p&gt;
+
+&lt;h3 id=&quot;variational-bayesian-methods&quot;&gt;Variational Bayesian methods&lt;/h3&gt;
+
+&lt;p&gt;Variational Bayesian methods are a family of techniques for approximating intractable integrals arising in Bayesian inference and machine learning. They are typically used in complex statistical models consisting of observed variables (usually termed “data”) as well as unknown parameters and latent variables, with various sorts of relationships among the three types of random variables, as might be described by a graphical model. As typical in Bayesian inference, the parameters and latent variables are grouped together as “unobserved variables”. Variational Bayesian methods are primarily used for two purposes:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;To provide an analytical approximation to the posterior probability of the unobserved variables, in order to do statistical inference over these variables.&lt;/li&gt;
+  &lt;li&gt;To derive a lower bound for the marginal likelihood (sometimes called the “evidence”) of the observed data (i.e. the marginal probability of the data given the model, with marginalization performed over unobserved variables). This is typically used for performing model selection, the general idea being that a higher marginal likelihood for a given model indicates a better fit of the data by that model and hence a greater probability that the model in question was the one that generated the data. (See also the Bayes factor article.)&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sun, 15 Dec 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/notes/Dealing-with-intractable-integrals/</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/Dealing-with-intractable-integrals/</guid>
+      </item>
+    
+      <item>
+        <title>俗世奇人</title>
+        <description>&lt;p&gt;《胡子》&lt;/p&gt;
+
+&lt;p&gt;爱的本质就是生命的相互依赖。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;就这层胡茬，使他忽然感到，往日往事，充溢着勃勃生机的生命，还有习惯了的生活，带着一种挺动人的气息又都回来了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;《雕花烟斗》&lt;/p&gt;
+
+&lt;p&gt;前些年失掉的荣誉，像一只跑掉的鸟儿，又带着一连串响亮的鸣叫飞回来了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;《酒婆》&lt;/p&gt;
+
+&lt;p&gt;酒鬼们对眼睛里的世界一片模糊，对肚子里的酒却一清二楚，但谁也不肯把这层纸捅破，喝美了也就算了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;《逼来的春天》&lt;/p&gt;
+
+&lt;p&gt;冬天与春天的界限是瓦解。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;冰的坍塌不是冬的风景，而是隐形的春所创造的第一幅壮丽的图画。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;春天不是由远方来到眼前，不是由天外来到人间；它原是深藏在万物的生命之中的，它是从生命深处爆发出来的，它是生的欲望、生的能源与生的激情。它永远是死亡的背面。惟此，春天才是不可遏制的。它把酷烈的严冬作为自己的序曲，不管这序曲多么漫长。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;《苦夏》&lt;/p&gt;
+
+&lt;p&gt;夏天的最后一刻，总是它酷热的极致。我明白了，它是耗尽自己的一切，才显示出夏的无边的威力。生命的快乐是能量淋漓尽致地发挥。但谁能像它这样，用一种自焚的形式，创造出这火一样辉煌的顶点？&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;《致大海》&lt;/p&gt;
+
+&lt;p&gt;你拿的工资可是人民给的，不是领导给的。领导的工资也是人民给的。拿了人民的钱就得为人民说话，不要怕！&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;那幅画我可是特意为您画得那么小，您的房间太窄，没有挂大画的墙壁。但是您告诉我：“只要是海，都是无边的大。”&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;《记韦君宜》&lt;/p&gt;
+
+&lt;p&gt;我不知道为什么，对一个人深入的回忆，非要到他逝去之后。难道回忆是被痛苦带来的吗？&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;回忆不是痛苦的，而是寂寥人间一种暖意的安慰。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 15 Dec 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/sougua/%E4%BF%97%E4%B8%96%E5%A5%87%E4%BA%BA/</link>
+        <guid isPermaLink="true">http://localhost:4000/sougua/%E4%BF%97%E4%B8%96%E5%A5%87%E4%BA%BA/</guid>
       </item>
     
       <item>
@@ -34,7 +259,7 @@
 
 &lt;p&gt;这段时间好像魔怔了，一直精神失常，情绪低沉，对身边的一切都漠不关心。但是感恩节从北密回来以后魔怔突然被治愈了。夜深时分突然惊醒，感到格外凄清也格外安宁。断断续续中会因为一些小小的细节继而想起好几个月以前的事情。想起当初错误的撒气和不负责任的埋怨。心中有愧，但是因为时间隔得太久远，又很久没有联系，于是失去了提起它的契机。于是只好在心里默默说声抱歉。前段时间因为感受不到生活的真实而暴躁不安。有好几次想要记录下内心的烦躁，最后每次都是打开了页面，却最终没有落笔。在键盘面前踟蹰了一会，还是放弃了。有些时候，人连一个说服自己的理由也懒得找。但是，现在终于能脚踏实地的感受到生活的存在了。不知道是因为写出了一直害怕且逃避的代码，还是因为如愿改变了对最讨厌的一门课的态度，还是因为突发奇想开始看《世界美术二十讲》。但是无论如何，在这个学期即将结束的最后两个星期，突然恢复了对生活的感知能力。有一种大病初愈的感觉，和内心某个叛逆的声音和解的感觉。在逃跑了很长一段时间以后最终又回到了从前喜欢的事情上。&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Nov 2019 00:00:00 -0500</pubDate>
+        <pubDate>Tue, 12 Nov 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/feihua/%E4%B8%8D%E8%AF%86/</link>
         <guid isPermaLink="true">http://localhost:4000/feihua/%E4%B8%8D%E8%AF%86/</guid>
       </item>
@@ -101,7 +326,7 @@
 
 &lt;p&gt;掏空了我的七情六欲一样，现在我面对着这个充满了星光与默示的夜，第一次向这个冷漠的世界敞开了我的心扉。我体验到这个世界如此像我，如此友爱融洽，觉得自己过去曾经是幸福的，现在仍然是幸福的。为了善始善终，功德圆满，为了不感到自己属于另类，我期望处决我的那天，有很多人前来看热闹，他们都向我发出仇恨的叫喊声。&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Nov 2019 00:00:00 -0500</pubDate>
+        <pubDate>Tue, 12 Nov 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/sougua/%E5%B1%80%E5%A4%96%E4%BA%BA/</link>
         <guid isPermaLink="true">http://localhost:4000/sougua/%E5%B1%80%E5%A4%96%E4%BA%BA/</guid>
       </item>
@@ -226,14 +451,14 @@
 
 &lt;p&gt;“楚老师，鲁迅为什么要写《起死》？”“也许，他要唤醒沉睡的人生……”“庄子为什么要给五百年前的骷髅‘起死’？”“也许，是要他重新生活一次。人生虽然艰难，生命毕竟可贵。庄子认为，人生应该像鲲鹏展翅，扶摇而上九万里，绝云气，负青天！”&lt;/p&gt;
 </description>
-        <pubDate>Sat, 09 Nov 2019 00:00:00 -0500</pubDate>
+        <pubDate>Sat, 09 Nov 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/sougua/%E7%A9%86%E6%96%AF%E6%9E%97%E7%9A%84%E8%91%AC%E7%A4%BC/</link>
         <guid isPermaLink="true">http://localhost:4000/sougua/%E7%A9%86%E6%96%AF%E6%9E%97%E7%9A%84%E8%91%AC%E7%A4%BC/</guid>
       </item>
     
       <item>
         <title>有一点怀疑作者的三观：《穆斯林的葬礼》</title>
-        <description>&lt;h1 id=&quot;穆斯林的葬礼&quot;&gt;穆斯林的葬礼&lt;/h1&gt;
+        <description>&lt;h3 id=&quot;穆斯林的葬礼&quot;&gt;穆斯林的葬礼&lt;/h3&gt;
 
 &lt;h4 id=&quot;1031&quot;&gt;10.31&lt;/h4&gt;
 
@@ -253,9 +478,9 @@
 
 &lt;p&gt;在网上看相关采访的时候，被作者的一句话深深戳动了：“现在这个时代的年轻人有房有车，不缺物质，但是他们体验不到以前的那种爱情。”&lt;/p&gt;
 </description>
-        <pubDate>Thu, 31 Oct 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/posts/%E6%9C%89%E4%B8%80%E7%82%B9%E6%80%80%E7%96%91%E4%BD%9C%E8%80%85%E7%9A%84%E4%B8%89%E8%A7%82-%E7%A9%86%E6%96%AF%E6%9E%97%E7%9A%84%E8%91%AC%E7%A4%BC</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/%E6%9C%89%E4%B8%80%E7%82%B9%E6%80%80%E7%96%91%E4%BD%9C%E8%80%85%E7%9A%84%E4%B8%89%E8%A7%82-%E7%A9%86%E6%96%AF%E6%9E%97%E7%9A%84%E8%91%AC%E7%A4%BC</guid>
+        <pubDate>Thu, 31 Oct 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/mazhuanji/%E6%9C%89%E4%B8%80%E7%82%B9%E6%80%80%E7%96%91%E4%BD%9C%E8%80%85%E7%9A%84%E4%B8%89%E8%A7%82-%E7%A9%86%E6%96%AF%E6%9E%97%E7%9A%84%E8%91%AC%E7%A4%BC/</link>
+        <guid isPermaLink="true">http://localhost:4000/mazhuanji/%E6%9C%89%E4%B8%80%E7%82%B9%E6%80%80%E7%96%91%E4%BD%9C%E8%80%85%E7%9A%84%E4%B8%89%E8%A7%82-%E7%A9%86%E6%96%AF%E6%9E%97%E7%9A%84%E8%91%AC%E7%A4%BC/</guid>
       </item>
     
       <item>
@@ -396,9 +621,9 @@ For example,&lt;/p&gt;
 &lt;h3 id=&quot;7-multi-label-loss-function&quot;&gt;7. Multi-label loss function&lt;/h3&gt;
 
 </description>
-        <pubDate>Tue, 29 Oct 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/posts/pytorch-collections</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/pytorch-collections</guid>
+        <pubDate>Tue, 29 Oct 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/notes/pytorch-collections/</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/pytorch-collections/</guid>
       </item>
     
       <item>
@@ -916,264 +1141,9 @@ For example,&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 29 Oct 2019 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 29 Oct 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/sougua/%E5%8D%A1%E6%8B%89%E9%A9%AC%E4%BD%90%E5%A4%AB%E5%85%84%E5%BC%9F/</link>
         <guid isPermaLink="true">http://localhost:4000/sougua/%E5%8D%A1%E6%8B%89%E9%A9%AC%E4%BD%90%E5%A4%AB%E5%85%84%E5%BC%9F/</guid>
-      </item>
-    
-      <item>
-        <title>配色</title>
-        <description>&lt;h2 id=&quot;配色搜集&quot;&gt;配色搜集&lt;/h2&gt;
-
-&lt;h4 id=&quot;1&quot;&gt;1.&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&amp;lt;font color=#ef475d size=3 face=”Hannotate SC”&amp;gt;#ef475d 草茉莉红&amp;lt;/font&amp;gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&amp;lt;font color=#fecc11 size=3 face=”Hannotate SC”&amp;gt;#ef475d 向日葵黄&amp;lt;/font&amp;gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&amp;lt;font color=#41ae3c size=3 face=”Hannotate SC”&amp;gt;#41ae3c 宝石绿&amp;lt;/font&amp;gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sat, 26 Oct 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/posts/%E9%85%8D%E8%89%B2</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/%E9%85%8D%E8%89%B2</guid>
-      </item>
-    
-      <item>
-        <title>Why women kill scripts</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;And we are offering unsolicited opinions.&lt;/li&gt;
-  &lt;li&gt;a foul mood 心情不好&lt;/li&gt;
-  &lt;li&gt;off and on 断断续续的&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;feisty 精力充沛&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;break a sweat 出汗&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Mon, 30 Sep 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/posts/why-women-kill-scripts</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/why-women-kill-scripts</guid>
-      </item>
-    
-      <item>
-        <title>Jekyll notes</title>
-        <description>&lt;h2 id=&quot;ruby&quot;&gt;Ruby&lt;/h2&gt;
-
-&lt;h3 id=&quot;gems&quot;&gt;Gems&lt;/h3&gt;
-
-&lt;p&gt;A gem is code you can include in Ruby projects. It allows you to package up functionality and share it across other projects or with other people. Gems can perform functionality such as:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Converting a Ruby object to JSON&lt;/li&gt;
-  &lt;li&gt;Pagination&lt;/li&gt;
-  &lt;li&gt;Interacting with APIs such as GitHub&lt;/li&gt;
-  &lt;li&gt;Jekyll itself is a gem as well as many Jekyll plugins&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;gem命令：&lt;/strong&gt;用于构建、上传、下载以及安装Gem包。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;gemfile：&lt;/strong&gt;包含当前Ruby项目需要运行的Gems列表。&lt;/p&gt;
-
-&lt;p&gt;当我们需要为Jekyll项目添加插件时，我们可以使用Gemfiles来指定。需要在Gemfiles文件的开头，至少指定一个gem source(指向RubyGems server的url)；可以通过执行命令&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle init&lt;/code&gt;来创建一个gemfile，其默认source为&lt;code class=&quot;highlighter-rouge&quot;&gt;https://rubygems.org&lt;/code&gt;。在Gemfile中的&lt;code class=&quot;highlighter-rouge&quot;&gt;gem &quot;jekyll-seo-tag&quot;&lt;/code&gt;相当于单独执行命令&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install 'jekyll-seo-tag'&lt;/code&gt;；但前者只应用与当前项目，后者则属于全局安装与某个项目无关。&lt;/p&gt;
-
-&lt;p&gt;当我们更改了Gemfile文件后，需要运行&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;命令，该命令生成Gemfile.lock文件，并下载该文件中的gems。&lt;/p&gt;
-
-&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;bundle &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--path&lt;/span&gt; vendor/bundle
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;一般我们在初次运行 &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;时会使用&lt;code class=&quot;highlighter-rouge&quot;&gt;--path&lt;/code&gt;选项，该选项用于指定该项目中使用到的 Gems 的下载安装路径；之后使用&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;时就无需指定&lt;code class=&quot;highlighter-rouge&quot;&gt;--path&lt;/code&gt;。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;bundler&quot;&gt;Bundler&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Bundler：&lt;/strong&gt;一个用于管理应用依赖关系的通用工具，它可以跟 RubyGems 搭配使用。通过Bundler程序读取Gemfile然后下载文件中需要的Gems。用于在Ruby库中管理Rubygems依赖项。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec&lt;/code&gt;只会使用Gemfile中该gem需要的版本。执行&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;或&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;后便会生成一个&lt;code class=&quot;highlighter-rouge&quot;&gt;_site&lt;/code&gt;目录，这就是生成的网站。使用版本控制时建议排除&lt;code class=&quot;highlighter-rouge&quot;&gt;_site&lt;/code&gt;目录。Before &lt;code class=&quot;highlighter-rouge&quot;&gt;building&lt;/code&gt; the site, it actually doesn’t exist and is just a bunch of template files。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;jeklyy&quot;&gt;jeklyy&lt;/h2&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt;命令：该命令会使用默认的主题，创建一个新的jekyll网站框架(项目)&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;作用：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;构建站点（使用build命令）&lt;/li&gt;
-  &lt;li&gt;启动开发服务器，并在默认情况下监测文件变化并进行实时构建。任何时候发生变化将自动构建网站。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll build&lt;/code&gt;：该命令用于创建静态站点(生成&lt;code class=&quot;highlighter-rouge&quot;&gt;_site&lt;/code&gt;目录)。&lt;/p&gt;
-
-&lt;p&gt;生成文件的路径可以在&lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;中配置，路径格式类似&lt;code class=&quot;highlighter-rouge&quot;&gt;_site/2017-01-19/style-test-ko/index.html&lt;/code&gt;。其中&lt;code class=&quot;highlighter-rouge&quot;&gt;_site根目录 = url + baseurl&lt;/code&gt;，&lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt;目录为style-stest-ko，它是这篇文章的标题，最终的文章内容将保存在&lt;code class=&quot;highlighter-rouge&quot;&gt;index.html&lt;/code&gt;文件中。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;structure&quot;&gt;structure&lt;/h3&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.
-├── _config.yml
-├── _drafts
-|   ├── begin-with-the-crazy-ideas.textile
-|   └── on-simplicity-in-technology.markdown
-├── _includes
-|   ├── footer.html
-|   └── header.html
-├── _layouts
-|   ├── default.html
-|   └── post.html
-├── _posts
-|   ├── 2007-10-29-why-every-programmer-should-play-nethack.textile
-|   └── 2009-04-26-barcamp-boston-4-roundup.textile
-├── _site
-├── .jekyll-metadata
-└── index.html
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;_configyml&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;&lt;/h3&gt;
-
-&lt;p&gt;保存配置数据。很多配置选项都可以直接在命令行中进行设置，但是如果你把那些配置写在这儿，你就不用非要去记住那些命令了。&lt;/p&gt;
-
-&lt;p&gt;部署GitHub pages的URL配置：&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; # URL
- url:                &quot;https://fandean.github.io&quot; # the base hostname &amp;amp; protocol for your site
- # url:                &quot;http://localhost:4000&quot; # use this url when you develop
- baseurl:            &quot;\blog&quot; # the subpath of your site, e.g. /blog
- # homepage URL for the website： url + baseurl = https://fandean.github.io/blog
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;To create links on the pages:&lt;/p&gt;
-
-&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;links&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-  &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;         &lt;span class=&quot;s&quot;&gt;Posts&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;          &lt;span class=&quot;s&quot;&gt;/&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;external&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;     &lt;span class=&quot;no&quot;&gt;false&lt;/span&gt;
-  &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;         &lt;span class=&quot;s&quot;&gt;About me&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;          &lt;span class=&quot;s&quot;&gt;/about&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;external&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;     &lt;span class=&quot;no&quot;&gt;false&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;For technical reasons, this file is &lt;em&gt;NOT&lt;/em&gt; reloaded automatically when you use &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;. If you change this file, please restart the server process using &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle update&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;indexhtml&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;index.html&lt;/code&gt;&lt;/h3&gt;
-
-&lt;p&gt;在站点的根目录。这个文件将是Jekyll生成站点的主页。&lt;/p&gt;
-
-&lt;p&gt;在主页上的布局：站点上任何 HTML 文件，包括主页，都可以使用 layout 和 include 中的内容作为公用的内容，如页面的 header 和 footer. 将合适的部分抽出放到布局中。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;front-matter&quot;&gt;Front matter&lt;/h3&gt;
-
-&lt;p&gt;Anything with &lt;a href=&quot;https://yaml.org/&quot;&gt;YAML&lt;/a&gt; header info will be treated as a special file in Jekyll. The front matter must be the first thing in the file and must take the form of valid YAML set between triple-dashed lines.&lt;/p&gt;
-
-&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;post&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Blogging Like a Hacker&lt;/span&gt;
-&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;在这两行的三虚线之间，你可以设置预定义的变量甚至创建一个你自己定义的变量。这样在接下来的文件和任意模板中或者在包含这些页面或博客的模板中都可以通过使用 Liquid 标签来访问这些变量。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;WARNING&lt;/strong&gt;&lt;/p&gt;
-
-  &lt;p&gt;如果使用 UTF-8 编码，那么文件中一定不要出现 &lt;code class=&quot;highlighter-rouge&quot;&gt;BOM&lt;/code&gt; 头字符&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;可以在页面或者博客的头信息里设置已经&lt;strong&gt;预定义好的全局变量&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;layout&lt;/code&gt;: 如果设置的话，会指定使用该模板文件。指定模板文件时候不需要文件扩展名。模板文件必须放在 &lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts&lt;/code&gt; 目录下。&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;permalink&lt;/code&gt;: 如果你需要让你发布的博客的 URL 地址不同于默认值(可在&lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;中定义)，那你就设置这个变量，然后变量值就会作为最终的 URL 地址。&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;published&lt;/code&gt;: 如果你不想在站点生成后展示某篇特定的博文，那么就设置（该博文的）该变量为 false。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;也可以设置&lt;a href=&quot;https://jekyllcn.com/docs/frontmatter/&quot;&gt;自定义的全局变量&lt;/a&gt;。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;_post&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;_post&lt;/code&gt;&lt;/h3&gt;
-
-&lt;p&gt;posts的命名必须遵循特定的格式：&lt;/p&gt;
-&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;yyyy-mm-dd-name_of_post.md
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;否则在编译的时候jekyll会找不到post。同时post的开头也要遵循特定格式：&lt;/p&gt;
-
-&lt;p&gt;Sample post:&lt;/p&gt;
-
-&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;post&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Welcome&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;to&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Jekyll!&quot;&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;s&quot;&gt;2019-09-21 10:23:46 -0400&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;categories&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;jekyll update&lt;/span&gt;
-&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
-
-Jekyll requires blog post files to be named according to the following format:
-
-&lt;span class=&quot;sb&quot;&gt;`YEAR-MONTH-DAY-title.MARKUP`&lt;/span&gt;
-
-Where &lt;span class=&quot;sb&quot;&gt;`YEAR`&lt;/span&gt; is a four-digit number, &lt;span class=&quot;sb&quot;&gt;`MONTH`&lt;/span&gt; and &lt;span class=&quot;sb&quot;&gt;`DAY`&lt;/span&gt; are both two-digit numbers, and &lt;span class=&quot;sb&quot;&gt;`MARKUP`&lt;/span&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:&lt;span class=&quot;sb&quot;&gt;
-
-
-&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;highlight&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;pre&amp;gt;&amp;lt;code&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;language-ruby&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-lang=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;ruby&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;k&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;def&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;nf&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;print_hi&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;p&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;(&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;nb&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;name&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;p&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;)&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;nb&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;puts&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;s2&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;&quot;Hi, &lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;si&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;#{&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;nb&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;name&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;si&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;s2&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;&quot;&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;k&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;end&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;n&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;print_hi&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;p&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;(&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;s1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;'Tom'&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;p&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;)&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;c1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;#=&lt;span class=&quot;ni&quot;&gt;&amp;amp;gt;&lt;/span&gt; prints 'Hi, Tom' to STDOUT.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;categories&quot;&gt;Categories&lt;/h3&gt;
-
-&lt;p&gt;https://blog.webjeda.com/jekyll-categories/&lt;/p&gt;
-
-&lt;h2 id=&quot;gem-based-themes&quot;&gt;Gem-based themes&lt;/h2&gt;
-
-&lt;p&gt;To replace layouts or includes in your theme, make a copy in your &lt;code class=&quot;highlighter-rouge&quot;&gt;or&lt;/code&gt; directory of the specific file you wish to modify, or create the file from scratch giving it the same name as the file you wish to override.&lt;/p&gt;
-
-&lt;p&gt;For example, if your selected theme has a &lt;code class=&quot;highlighter-rouge&quot;&gt;page&lt;/code&gt; layout, you can override the theme’s layout by creating your own &lt;code class=&quot;highlighter-rouge&quot;&gt;page&lt;/code&gt; layout in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts&lt;/code&gt; directory (that is, &lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts/page.html&lt;/code&gt;).&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;https://jekyllrb.com/docs/&lt;/li&gt;
-  &lt;li&gt;https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://faner.gitlab.io/blog/2017/07/07/jekyll安装与部署/#heading-jekyll本地安装&quot;&gt;jekyll install and deploy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;jekyll github&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;YAML syntax:
-    &lt;ul&gt;
-      &lt;li&gt;https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml&lt;/li&gt;
-      &lt;li&gt;https://learnxinyminutes.com/docs/yaml/&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jekyllcn.com/docs/posts/&quot;&gt;writing blogs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/link9596/hydrogen&quot;&gt;Sample website&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Sat, 21 Sep 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/notes/jekyll-notes/</link>
-        <guid isPermaLink="true">http://localhost:4000/notes/jekyll-notes/</guid>
       </item>
     
   </channel>

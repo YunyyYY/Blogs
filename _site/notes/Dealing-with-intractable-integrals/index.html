@@ -1,0 +1,167 @@
+
+<!doctype>
+<html lang="en">
+  <head>
+    <meta content='Dealing with intractable integrals - Yunyy' name='title' />
+    <meta content='Dealing with intractable integrals - Yunyy' name='og:title' />
+    <title>Dealing with intractable integrals - Yunyy</title>
+    <link href='http://localhost:4000/images/fav.png' rel='shortcut icon'>
+<link href='http://localhost:4000/stylesheets/style.css' rel='stylesheet' type='text/css' />
+<link href='http://localhost:4000/stylesheets/syntax.css' rel='stylesheet' type='text/css' />
+
+<meta content='width=device-width, initial-scale=1.0, user-scalable=no' name='viewport'>
+<meta content='text/html; charset=utf-8' http-equiv='content-type' />
+
+  <meta content='http://localhost:4000/notes/Dealing-with-intractable-integrals/' property='og:url' />
+  <meta content="Intractable integrals  Reference      https://ermongroup.github.io/cs228-notes/inference/variational/    https://thec..." property='og:description' />
+  <meta content="article" property="og:type" />
+
+<!-- - -->
+
+
+
+
+
+  </head>
+  <body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
+    <header class="tc mt4">
+      <a href="http://localhost:4000">
+        <img src="http://localhost:4000/images/fav.png" alt="Home" width="75" height="75">
+      </a>
+      <h1>Dealing with intractable integrals</h1>
+    </header>
+    <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
+      <nav class="bb b--light-gray pv4 tc" aria-label="Main">
+        
+          <a class="link blue hover-mid-gray mh2 pv1"
+             href="http://localhost:4000/">
+             Home
+           </a>
+        
+          <a class="link blue hover-mid-gray mh2 pv1"
+             href="http://localhost:4000/categories">
+             Blogs
+           </a>
+        
+          <a class="link blue hover-mid-gray mh2 pv1"
+             href="http://localhost:4000/about">
+             About
+           </a>
+        
+      </nav>
+
+      <main class="tl f6 relative pa4 pa5-ns overflow-hidden">
+        
+        <div class="markdown-body">
+          <article itemscope itemtype="">
+    <div itemprop="articleBody">
+        <h2 id="intractable-integrals">Intractable integrals</h2>
+
+<blockquote>
+  <h3 id="reference">Reference</h3>
+
+  <ol>
+    <li>https://ermongroup.github.io/cs228-notes/inference/variational/</li>
+    <li>https://theclevermachine.wordpress.com/2012/09/22/monte-carlo-approximations/.</li>
+  </ol>
+</blockquote>
+
+<h3 id="monte-carlo-approximation">Monte Carlo Approximation</h3>
+
+<p>Using statistical methods we often run into integrals that take the form:
+<script type="math/tex">I=\int_{a}^{b} h(x) g(x) d x</script>
+Sometimes such an integral can be evaluated analytically. When a closed form solution does not exist, numeric integration methods can be applied. However, numerical methods quickly become intractable for any practical application that requires more than a small number of dimensions. This is where <strong>Monte Carlo approximation</strong> comes in.</p>
+
+<p>Monte Carlo approximation allows us to calculate an estimate for the value of $I$ by transforming the  integration problem into a procedure of sampling values from a tractable probability distribution and calculating the average of those samples.</p>
+
+<p>If function $g(x)$ fullfills the following two criteria:
+<script type="math/tex">g(x) \geq 0, x \in(a, b)</script>
+and its integral is finite
+<script type="math/tex">% <![CDATA[
+\int_{a}^{b} g(x)=C<\infty %]]></script>
+then we can define a corresponding probability distribution on the interval $(a, b)$
+<script type="math/tex">p(x)=\frac{g(x)}{C}</script>
+Then we can restate the original integration as
+<script type="math/tex">I=C \int_{a}^{b} h(x) p(x) d x=C \mathbb{E}_{p(x)}[h(x)]</script>
+If we can <em>sample</em> values of $x$ using $p(x)$, then the value of  the original integral $I$ is simply a scaled version of the expected value of the integrand function $h(x)$ calculated using those samples. Turns out that the expected value $\mathbb E_{p(x)}[h(x)]$ can be easily approximated by the sample mean:
+<script type="math/tex">\mathbb{E}_{p(x)}[h(x)] \approx \frac{1}{N} \sum_{i}^{N} h\left(x_{i}\right)</script>
+where samples $x_i, i = 1…N$ are drawn independently from $p(x)$. This leads to a simple 4-Step Procedure for performing Monte Carlo approximation to the integral $I$:</p>
+
+<ol>
+  <li>Identify $h(x)$</li>
+  <li>Identify $g(x)$ and determine $p(x)$ and $C$</li>
+  <li>Draw $N$ independent samples from $p(x)$</li>
+  <li>Evaluate $I = C \mathbb E[h(x)] \approx \frac{C}{N} \sum_i^N h(x_i)$</li>
+</ol>
+
+<p>The larger the number of samples $N$ we draw, the better our approximation to the actual value of $I$.</p>
+
+<blockquote>
+  <h4 id="example-iint_01-x-ex-d-x">Example $I=\int_{0}^{1} x e^{x} d x$</h4>
+
+  <p>We can calculate the closed form solution of this integral using integration by parts:
+<script type="math/tex">\begin{array}{l}
+{u=x, d v=e^{x}} \\ 
+{d u=d x, v=e^{x}}
+\end{array}</script>
+And the result is
+<script type="math/tex">% <![CDATA[
+\begin{aligned}
+I &=u v-\int v d u = x e^{x}-\int e^{x} d x \\ 
+&=x e^{x}-\left.e^{x}\right|_{0} ^{1} =\left.e^{x}(x-1)\right|_{0} ^{1} =0-(-1)=1
+\end{aligned} %]]></script>
+Next we calculate the  Monte Carlo approximation of this integral.</p>
+
+  <ol>
+    <li>indentify $h(x)=x e^{x}$</li>
+    <li>identify $g(x)=1$ and determine the probability distribution function $p(x) \in (a,b) = (0,1)$.</li>
+    <li>According to the definition expression for $p(x)$ given above we detemine $p(x)$ to be $p(x)=\frac{g(x)}{\int_{a}^{b} g(x) d x}=\frac{1}{b-a}$, which is the definition for the uniform distribution $\operatorname{uni}(0,1)$.</li>
+    <li>calculate the Monte Carlo approximation as $I=C \mathbb{E}<em>{p(x)} h(x)\approx \frac{1}{N} \sum</em>{i=1}^{N} x_{i} e^{x_{i}}$</li>
+  </ol>
+</blockquote>
+
+<h3 id="markov-chain-monte-carlo">Markov chain Monte Carlo</h3>
+
+<p>Markov chain Monte Carlo (MCMC) methods comprise a class of algorithms for sampling from a probability distribution. By constructing a Markov chain that has the desired distribution as its equilibrium distribution, one can obtain a sample of the desired distribution by recording states from the chain. The more steps that are included, the more closely the distribution of the sample matches the actual desired distribution.</p>
+
+<p>Most sampling-based inference algorithms are instances of Markov Chain Monte-Carlo (MCMC); two popular MCMC methods are Gibbs sampling and Metropolis-Hastings.</p>
+
+<h3 id="variational-inference">Variational inference</h3>
+
+<p>Sampling-based methods have several important shortcomings:</p>
+
+<ul>
+  <li>Although they are guaranteed to find a globally optimal solution given enough time, it is difficult to tell how close they are to a good solution given the finite amount of time that they have in practice.</li>
+  <li>In order to quickly reach a good solution, MCMC methods require choosing an appropriate sampling technique (e.g. a good proposal in Metropolis-Hastings). Choosing this technique can be an art in itself.</li>
+</ul>
+
+<p>An alternative approach to approximate inference is the <strong>variational family</strong> of algorithms. The main differences between sampling and variational techniques are that:</p>
+
+<ul>
+  <li>Unlike sampling-based methods, variational approaches will almost never find the globally optimal solution.</li>
+  <li>However, we will always know if they have converged. In some cases, we will even have bounds on their accuracy.</li>
+  <li>In practice, variational inference methods often scale better and are more amenable to techniques like stochastic gradient optimization, parallelization over multiple processors, and acceleration using GPUs.</li>
+</ul>
+
+<p>The main idea of variational methods is to cast inference as an optimization problem. Suppose we are given an intractable probability distribution $p$. Variational techniques will try to solve an optimization problem over a class of tractable distributions $Q$ in order to find a $q\in Q$ that is most similar to $p$. We will then query $q$ (rather than $p$) in order to get an approximate solution.</p>
+
+<h3 id="variational-bayesian-methods">Variational Bayesian methods</h3>
+
+<p>Variational Bayesian methods are a family of techniques for approximating intractable integrals arising in Bayesian inference and machine learning. They are typically used in complex statistical models consisting of observed variables (usually termed “data”) as well as unknown parameters and latent variables, with various sorts of relationships among the three types of random variables, as might be described by a graphical model. As typical in Bayesian inference, the parameters and latent variables are grouped together as “unobserved variables”. Variational Bayesian methods are primarily used for two purposes:</p>
+
+<ol>
+  <li>To provide an analytical approximation to the posterior probability of the unobserved variables, in order to do statistical inference over these variables.</li>
+  <li>To derive a lower bound for the marginal likelihood (sometimes called the “evidence”) of the observed data (i.e. the marginal probability of the data given the model, with marginalization performed over unobserved variables). This is typically used for performing model selection, the general idea being that a higher marginal likelihood for a given model indicates a better fit of the data by that model and hence a greater probability that the model in question was the one that generated the data. (See also the Bayes factor article.)</li>
+</ol>
+
+    </div>
+</article>
+        </div>
+      </main>
+    </div>
+    <footer class="mw7 center tc pt3 pb1 silver">
+        <a href="http://github.com/muan/scribble" class="link silver hover-blue pv1">笔记</a>
+      <br><img src="http://localhost:4000/images/fav2.png" alt="Yunyy" class="pt1 pb1 center" />
+    </footer>
+  </body>
+</html>

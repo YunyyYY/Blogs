@@ -1,0 +1,95 @@
+
+<!doctype>
+<html lang="en">
+  <head>
+    <meta content='Stochastic block model - Yunyy' name='title' />
+    <meta content='Stochastic block model - Yunyy' name='og:title' />
+    <title>Stochastic block model - Yunyy</title>
+    <link href='http://localhost:4000/images/fav.png' rel='shortcut icon'>
+<link href='http://localhost:4000/stylesheets/style.css' rel='stylesheet' type='text/css' />
+<link href='http://localhost:4000/stylesheets/syntax.css' rel='stylesheet' type='text/css' />
+
+<meta content='width=device-width, initial-scale=1.0, user-scalable=no' name='viewport'>
+<meta content='text/html; charset=utf-8' http-equiv='content-type' />
+
+  <meta content='http://localhost:4000/notes/Stochastic-block-model/' property='og:url' />
+  <meta content="Beta distributionIn probability theory and statistics, the beta distribution is a family of continuous probability di..." property='og:description' />
+  <meta content="article" property="og:type" />
+
+<!-- - -->
+
+
+
+
+
+  </head>
+  <body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
+    <header class="tc mt4">
+      <a href="http://localhost:4000">
+        <img src="http://localhost:4000/images/fav.png" alt="Home" width="75" height="75">
+      </a>
+      <h1>Stochastic block model</h1>
+    </header>
+    <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
+      <nav class="bb b--light-gray pv4 tc" aria-label="Main">
+        
+          <a class="link blue hover-mid-gray mh2 pv1"
+             href="http://localhost:4000/">
+             Home
+           </a>
+        
+          <a class="link blue hover-mid-gray mh2 pv1"
+             href="http://localhost:4000/categories">
+             Blogs
+           </a>
+        
+          <a class="link blue hover-mid-gray mh2 pv1"
+             href="http://localhost:4000/about">
+             About
+           </a>
+        
+      </nav>
+
+      <main class="tl f6 relative pa4 pa5-ns overflow-hidden">
+        
+        <div class="markdown-body">
+          <article itemscope itemtype="">
+    <div itemprop="articleBody">
+        <h2 id="beta-distribution">Beta distribution</h2>
+
+<p>In probability theory and statistics, the beta distribution is a family of continuous probability distributions defined on the interval $[0, 1]$ parametrized by two positive shape parameters, denoted by $\alpha$ and $\beta$, that appear as exponents of the random variable and control the shape of the distribution. It is a special case of the Dirichlet distribution.</p>
+
+<p>PDF: $\frac{x^{\alpha-1}(1-x)^{\beta-1}}{\mathrm{B}(\alpha, \beta)}$, where $\mathrm{B}(\alpha, \beta)=\frac{\Gamma(\alpha) \Gamma(\beta)}{\Gamma(\alpha+\beta)}$ and $\Gamma$ is the Gamma function.</p>
+
+<h2 id="dirichlet-distribution">Dirichlet distribution</h2>
+
+<p>$\operatorname {Dir} ({\boldsymbol {\alpha }})$ is a family of continuous multivariate probability distributions parameterized by a vector ${\boldsymbol {\alpha }}$ of positive reals. It is a multivariate generalization of the beta distribution, hence it has an alternative name of multivariate beta distribution (MBD). Dirichlet distributions are <strong>commonly used as prior distributions in Bayesian statistics</strong>, and in fact the Dirichlet distribution is the conjugate prior of the categorical distribution and multinomial distribution.</p>
+
+<p>PDF: $\frac{1}{\mathrm{B}(\boldsymbol{\alpha})} \prod_{i=1}^{K} x_{i}^{\alpha_{i}-1}$, where $\mathrm{B}(\boldsymbol{\alpha})=\frac{\prod_{i=1}^{K} \Gamma\left(\alpha_{i}\right)}{\Gamma\left(\sum_{i=1}^{K} \alpha_{i}\right)}$ and $\boldsymbol{\alpha}=\left(\alpha_{1}, \ldots, \alpha_{K}\right)$.</p>
+
+<h2 id="stochastic-block-model">Stochastic block model</h2>
+
+<p>The stochastic block model is a generative model for random graphs. This model tends to produce graphs containing communities, subsets characterized by being connected with one another with particular edge densities. For example, edges may be more common within communities than between communities. The stochastic block model is important in statistics, machine learning, and network science, where it serves as a useful benchmark for the task of recovering community structure in graph data.</p>
+
+<p>The stochastic block model takes the following parameters:</p>
+
+<ul>
+  <li>the number $n$ of vertices</li>
+  <li>a partition of the vertex set ${1,\ldots,n}$ into disjoint subsets ${C_{1},\ldots ,C_{r}}$, called <em>communities</em></li>
+  <li>a symmetric ${r\times r}$ matrix ${P}$ of edge probabilities.</li>
+</ul>
+
+<p>The edge set is then sampled at random as follows: any two vertices $u \in C_i$ and $v \in C_j$ are connected by an edge with probability $P_{ij}$. An example problem is: given a graph with $n$ vertices, where the edges are sampled as described, recover the groups $C_1,\ldots,C_r$.</p>
+
+
+    </div>
+</article>
+        </div>
+      </main>
+    </div>
+    <footer class="mw7 center tc pt3 pb1 silver">
+        <a href="http://github.com/muan/scribble" class="link silver hover-blue pv1">笔记</a>
+      <br><img src="http://localhost:4000/images/fav2.png" alt="Yunyy" class="pt1 pb1 center" />
+    </footer>
+  </body>
+</html>

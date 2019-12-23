@@ -1,3 +1,11 @@
+---
+layout: review
+permalink: /:categories/:title/
+category: Notes
+tag: 笔记
+---
+
+
 ## PyTorch problems collect
 
 > cited from [60 min blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
