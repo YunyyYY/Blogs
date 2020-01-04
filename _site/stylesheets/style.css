@@ -34,10 +34,13 @@
   border-bottom: 1px dotted #CCC;
 }
 .markdown-body blockquote {
-  margin:.5rem;
+  margin:0rem;
   background: #fffacd;
   border-left: .2rem solid #ffd700;
   padding-left: 0.8rem;
+  padding-right: 0.8rem;
+  padding-top: 1pt;
+  padding-bottom: 1pt;
 }
 
 /* end Markdown styles */

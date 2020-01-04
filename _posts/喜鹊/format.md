@@ -1,7 +1,7 @@
 ---
 layout: review
 permalink: /:categories/:title/
-category: sougua
-tag: 搜刮
+category: magpie
+tag: 喜鹊
 ---
 

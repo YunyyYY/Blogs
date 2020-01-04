@@ -28,11 +28,13 @@ cases:
   - name: nianlun
     id:   年轮
   - name: sougua
-    id:   搜刮
+    id:   摘录
   - name: feihua
     id:   脑子里总是琢磨废话
   - name: chengshi
     id:   城市
+  - name: magpie
+    id:   喜鹊
 
 
 
