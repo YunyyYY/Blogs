@@ -1,4 +1,4 @@
 vendor/*
 _drafts/*
 *.DS_Store
-_posts/*
+_posts/*/hide-*
