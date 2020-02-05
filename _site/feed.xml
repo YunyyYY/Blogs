@@ -7,6 +7,57 @@
     <atom:link href="https://yunyyyy.github.io/Blogs//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>How to view your html password</title>
+        <description>&lt;p&gt;The usual setting for HTML password is:&lt;/p&gt;
+
+&lt;div&gt;
+    &lt;label for=&quot;pass&quot;&gt;Password (8 characters minimum):&lt;/label&gt;
+    &lt;input type=&quot;password&quot; id=&quot;pass&quot; name=&quot;password&quot; minlength=&quot;8&quot; required=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;label&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;for=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;pass&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Password (8 characters minimum):&lt;span class=&quot;nt&quot;&gt;&amp;lt;/label&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;input&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;password&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;pass&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;password&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;minlength=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;8&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;required=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;To view the password, open inspector, and find the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;div&amp;gt;&lt;/code&gt; for this password. Change the type of input from “password” to “text” and the password content will show:&lt;/p&gt;
+
+&lt;div&gt;
+    &lt;label for=&quot;pass&quot;&gt;Password (8 characters minimum):&lt;/label&gt;
+    &lt;input type=&quot;text&quot; id=&quot;pass&quot; name=&quot;password&quot; minlength=&quot;8&quot; required=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;label&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;for=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;pass&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Password (8 characters minimum):&lt;span class=&quot;nt&quot;&gt;&amp;lt;/label&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;input&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;password&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;pass&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;password&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;minlength=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;8&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;required=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 03 Feb 2020 00:00:00 -0500</pubDate>
+        <link>https://yunyyyy.github.io/Blogs//notes/how-to-view-your-html-password/</link>
+        <guid isPermaLink="true">https://yunyyyy.github.io/Blogs//notes/how-to-view-your-html-password/</guid>
+      </item>
+    
+      <item>
+        <title>Git usage</title>
+        <description>&lt;h2 id=&quot;git-usages&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git&lt;/code&gt; usages&lt;/h2&gt;
+
+&lt;h3 id=&quot;删除远程文件但本地保留&quot;&gt;删除远程文件但本地保留&lt;/h3&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git &lt;span class=&quot;nb&quot;&gt;rm&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-r&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--cached&lt;/span&gt; &amp;lt;folder_name&amp;gt;
+git commit &lt;span class=&quot;nt&quot;&gt;-m&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;delete &amp;lt;folder_name&amp;gt;&quot;&lt;/span&gt;
+git push
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 03 Feb 2020 00:00:00 -0500</pubDate>
+        <link>https://yunyyyy.github.io/Blogs//notes/git-usage/</link>
+        <guid isPermaLink="true">https://yunyyyy.github.io/Blogs//notes/git-usage/</guid>
+      </item>
+    
+      <item>
         <title>高尔夫球场命案</title>
         <description>&lt;p&gt;男人是种自负的动物。雷诺先生肯定认为他的遗孀不会再嫁。至于儿子，把钱留给他妈妈未尝不是一种明智之举。有钱人的儿子一般都挥霍无度。&lt;/p&gt;
 
@@ -785,70 +836,6 @@
         <pubDate>Mon, 13 Jan 2020 00:00:00 -0500</pubDate>
         <link>https://yunyyyy.github.io/Blogs//sougua/%E9%B8%BD%E7%BE%A4%E4%B8%AD%E7%9A%84%E7%8C%AB/</link>
         <guid isPermaLink="true">https://yunyyyy.github.io/Blogs//sougua/%E9%B8%BD%E7%BE%A4%E4%B8%AD%E7%9A%84%E7%8C%AB/</guid>
-      </item>
-    
-      <item>
-        <title>Dom</title>
-        <description>&lt;h3 id=&quot;what-is-dom&quot;&gt;What is DOM&lt;/h3&gt;
-
-&lt;p&gt;Document Object Model: programming interface for HTML and XML documents.&lt;/p&gt;
-
-&lt;p&gt;The DOM is a W3C (World Wide Web Consortium) standard.&lt;/p&gt;
-
-&lt;p&gt;The DOM defines a standard for accessing documents:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“The W3C Document Object Model (DOM) is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The W3C DOM standard is separated into 3 different parts:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Core DOM - standard model for all document types&lt;/li&gt;
-  &lt;li&gt;XML DOM - standard model for XML documents&lt;/li&gt;
-  &lt;li&gt;HTML DOM - standard model for HTML documents&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;html-dom-tree-of-objects&quot;&gt;HTML DOM tree of Objects&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.w3schools.com/js/pic_htmltree.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;With the object model, JavaScript gets all the power it needs to create &lt;strong&gt;dynamic HTML&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;API = DOM + JavaScript&lt;/p&gt;
-</description>
-        <pubDate>Sun, 12 Jan 2020 00:00:00 -0500</pubDate>
-        <link>https://yunyyyy.github.io/Blogs//notes/DOM/</link>
-        <guid isPermaLink="true">https://yunyyyy.github.io/Blogs//notes/DOM/</guid>
-      </item>
-    
-      <item>
-        <title>21首玫瑰的歌</title>
-        <description>&lt;p&gt;小约翰·施特劳斯《南国玫瑰圆舞曲》
-恩斯特《“夏日最后的玫瑰”主题变奏》
-理查·施特劳斯《“玫瑰骑士”第一号圆舞曲》
-韦伯《邀舞“玫瑰精”》
-泰雷加《玫瑰波尔卡》
-柴可夫斯基《玫瑰柔板》
-皮雅芙《玫瑰人生》
-麦克道尔《致野玫瑰》
-里姆斯基·科萨科夫《夜莺与玫瑰》
-圣桑《夜莺与玫瑰》
-亨德尔《拨开荆棘，摘下玫瑰》
-德利勃《玫瑰与茉莉二重唱》
-威尔第《爱情乘着玫瑰色的翅膀》
-瓦格纳《清晨闪耀着玫瑰色的光芒》
-贝里尼《让玫瑰带去幸运》
-舒曼《我的玫瑰》
-舒伯特《野玫瑰》
-西贝柳斯《黑玫瑰》
-勃拉姆斯《一朵绽放的玫瑰花》
-李斯特《玫瑰经》
-萨蒂《来自玫瑰十字架的钟声》&lt;/p&gt;
-</description>
-        <pubDate>Sun, 12 Jan 2020 00:00:00 -0500</pubDate>
-        <link>https://yunyyyy.github.io/Blogs//magpie/21%E9%A6%96%E7%8E%AB%E7%91%B0%E7%9A%84%E6%AD%8C/</link>
-        <guid isPermaLink="true">https://yunyyyy.github.io/Blogs//magpie/21%E9%A6%96%E7%8E%AB%E7%91%B0%E7%9A%84%E6%AD%8C/</guid>
       </item>
     
   </channel>
