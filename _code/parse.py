@@ -17,14 +17,10 @@ def luoxia():
     	urls.append(a.get('href'))
     	title.append(a.contents[0])
     
-	for url in urls:
-    	page = requests.get(url)
-    	soup = BeautifulSoup(page.content, 'html.parser')
-    	raw_ = soup.find(id='nr1')
-    	break
-    
 	with open('modu.txt','w') as f:
     	for url in urls:
+            f.write(title[chap-1]+'\n')
+            chap += 1
         	page = requests.get(url)
         	soup = BeautifulSoup(page.content, 'html.parser')
         	raw = soup.find(id='nr1')
@@ -37,7 +33,6 @@ def luoxia():
             	except:
                 	pass
         	f.write('\n\n')
-        	break
 
 
 def mitu():
