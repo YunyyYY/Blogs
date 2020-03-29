@@ -7,6 +7,80 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>很不正经的面经</title>
+        <description>&lt;p&gt;是在决定给这段疯狂推销自己的找实习之旅画上句点以后，当我和正在凌晨四点的北京机场排队入关做身体检查的室友聊天时突然想到，应该记录一下这段时间面试的回忆。当时室友说，祖国真的好伟大。我亦觉得。那一瞬间，突然想起微软一面的时候，面试官和我开玩笑：“美国现在疫情这样发展，你觉得你们到时候还回得来嘛。”我笑说，“当然呀，我对我的祖国充满了信任。“&lt;/p&gt;
+
+&lt;p&gt;从一月初开始准备找实习，一直到现在三月中旬。感官上觉得已经经历很长一段时间了，但是算下来好像也没多久。从一开始的无所适从到最后能够一遍写完算法，在写tc的时候面试官打断说他觉得通过了。感觉真的感悟很多。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ms&quot;&gt;MS&lt;/h3&gt;
+
+&lt;p&gt;面试微软之前真的提心吊胆，以为会非常难。但是面完以后觉得面试过程氛围很轻松，印象最深的是几个和面试本身无关的细节。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;一个是一面第一次用Teams屏幕共享的时候，因为显示了全屏，在选择修改偏好设置的时候没有看到窗口。当时就和面试官解释说我在修改系统设置的地方遇到了一点问题，请他稍等一下。面试官问：“你是什么系统？”&lt;/p&gt;
+
+&lt;p&gt;我：“……mac……”&lt;/p&gt;
+
+&lt;p&gt;面试官：“mac啊，”然后哈哈笑了一阵，“那我不会。”&lt;/p&gt;
+
+&lt;p&gt;第二个是一面最后，面试官问我有什么问题问他。想问的都问完了，我突然不知为脱口而出，“你们平时都用vs code码代码吗？”&lt;/p&gt;
+
+&lt;p&gt;面试官：“不，这个看个人吧，我就是用visual studio。”&lt;/p&gt;
+
+&lt;p&gt;不好意思，我把visual studio这位麻烦大哥忘了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;三面的面试官人在美国，因为忘记时差迟到了一个小时。等他出现以后，一上来就用英文问我。问了半天以后，他突然问，“你会讲中文吗？”&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 19 Mar 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/liushui/%E5%BE%88%E4%B8%8D%E6%AD%A3%E7%BB%8F%E7%9A%84%E9%9D%A2%E7%BB%8F/</link>
+        <guid isPermaLink="true">http://localhost:4000/liushui/%E5%BE%88%E4%B8%8D%E6%AD%A3%E7%BB%8F%E7%9A%84%E9%9D%A2%E7%BB%8F/</guid>
+      </item>
+    
+      <item>
+        <title>终端安装r pakcage</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Reference: http://www.ryantmoore.org/files/ht/htrtargz.pdf&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;为了某客户要求要在R里装gglasso。结果发现gfortran路径问题在Rstudio里面一直装不上。于是从&lt;a href=&quot;https://cran.r-project.org/web/packages/gglasso/index.html&quot;&gt;CRAN&lt;/a&gt;下载源码然后终端安装。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;关闭R&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In terminal,&lt;/p&gt;
+
+    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;R CMD INSTALL &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;path.to.pkg.tar.gz]
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;p&gt;(or &lt;code class=&quot;highlighter-rouge&quot;&gt;.tgz&lt;/code&gt;)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;打开R&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;就好啦！&lt;/p&gt;
+
+&lt;p&gt;Amazing.&lt;/p&gt;
+
+&lt;开始走滑稽风了呢.jpg&gt;
+
+&lt;/开始走滑稽风了呢.jpg&gt;
+</description>
+        <pubDate>Wed, 18 Mar 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/notes/%E7%BB%88%E7%AB%AF%E5%AE%89%E8%A3%85R-pakcage/</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/%E7%BB%88%E7%AB%AF%E5%AE%89%E8%A3%85R-pakcage/</guid>
+      </item>
+    
+      <item>
         <title>苏东坡传</title>
         <description>&lt;h4 id=&quot;译者序&quot;&gt;译者序&lt;/h4&gt;
 
@@ -179,9 +253,57 @@
 
 &lt;p&gt;在celebration之前阅读了新住户的自我介绍，Habitat for Humanity Restore的一些相关人员每人都准备了一份小礼物给住户。然后参观新房子。感觉可以用十分漂亮来形容……&lt;/p&gt;
 
-&lt;p&gt;晚上在一家烛光摇曳的餐厅吃饭，校友请我们喝Punch Bowl signature cocktail。&lt;/p&gt;
+&lt;p&gt;晚上在一家烛光摇曳的餐厅吃饭，校友请我们喝Punch Bowl signature cocktail。当时查了里面每一种成分的英文翻译。现在什么都忘记了，只记得Cimarron tequila（龙舌兰）。&lt;/p&gt;
 
-&lt;p&gt;Cimarron tequila（龙舌兰），&lt;/p&gt;
+&lt;p&gt;后来步行回家。很少有在美国城市里夜晚步行的经历，因为总觉得不安全。虽然心里惴惴不安，但是不得不承认在NOLA夜行是一件很有滋味的事情。事实证明后来每天晚上都有夜游经历。&lt;/p&gt;
+
+&lt;p&gt;我们穿过城区的街道，有一种又现代又古老的感觉。背景是很高的写字楼，每一扇窗户都发出明亮的黄色灯光。但是我们走过的街道又很安静，橡树上飘着mardi gras剩下的彩带和珠链，路灯下斑驳的树影洒在砖墙上。细微的雨丝随风拂面，整个街道是一种忧郁的色调。我和队友们在路上走，漫不经心的聊天。有一种从前在国内出游，晚饭后和大家一起散步回宾馆的感觉。久违的感觉。&lt;/p&gt;
+
+&lt;h3 id=&quot;mar-4&quot;&gt;Mar. 4&lt;/h3&gt;
+
+&lt;p&gt;今天不同寻常的事情大概是和Thomas的家人吃饭。有他的父母、他儿时的nanny和他的儿子，以及我们组。&lt;/p&gt;
+
+&lt;p&gt;Thomas的nanny是一位丹麦美女。现在已经成为了一个法官。是一个非常有趣的人。一周里她有几天工作；最喜欢处理刑事案件，因为只要判他们坐牢就行；最讨厌处理离婚案，因为数不尽的麻烦。从她那里听来许多从未谋面的人生景象。&lt;/p&gt;
+
+&lt;p&gt;Thomas的父母开两辆车来吃饭。其他人都到了以后他妈妈还在找车位，迟迟没有来。Thomas继父：“我老婆呢？？？”后来他的老婆大人终于现身。整晚手一直搭在人家肩膀后面的靠垫上。她讲话的时候也一直一脸宠溺的看着。每一次在高档餐厅吃饭就会羡慕富有的美国白人的爱情。&lt;/p&gt;
+
+&lt;p&gt;后来聊到了Thomas的男友。记得之前在Marigny的BBQ吃午饭的时候，Thomas有讲到NOLA大多数是天主教徒，对待同性恋十分保守。会有家庭因为子女出柜而将他们赶出家门。但是他的父母却对他表示了支持，他特别感激。介于Thomas是天主教，而他的男友是犹太教。Thomas的nanny突然就问：“那你们以后的孩子信什么教？”Thomas的妈妈狂笑对她说：”你真勇敢。这个问题我一直都不敢问。“然后话题就转到Christian和Baptism（丹麦主流教派）对新生儿取名和洗礼的问题。Thomas的nanny说在丹麦，孩子的名字都是满月在洗礼的时候由教父/母宣布。这对我们来说是一件奇事，并且看起来对Thomas的妈妈也是如此，因为她立刻就说：”那你们之前怎么称呼自己的孩子呢？在美国要是孩子出生没有名字，他可能无法离开医院。“从上户口的角度而言，这倒是更容易理解。可能因为从小生活在无神主义的社会主义国家，对政府的安排总是习以为常，对一些地区古老的传统反而感到不可思议。&lt;/p&gt;
+
+&lt;p&gt;后来开胃菜端了上来。再上主菜。最后到了甜点的时候，大家都已经饱了。这时Thomas的妈妈向服务员要了甜点菜单。&lt;/p&gt;
+
+&lt;p&gt;Thomas偷偷对我说：“我想吃甜点，你愿意一起分吗？”&lt;/p&gt;
+
+&lt;p&gt;☁️：“想啊！但是我已经吃饱了。你下次提前告诉我吧，我好在胃里预留空间。”&lt;/p&gt;
+
+&lt;p&gt;Thomas疯狂大笑。介于他的笑声太大，引起了全组的注意，于是他的妈妈心领神会，决定点两份甜点让大家都来分享：一份南瓜派配椰奶油。一份gluten-free的巧克力蛋糕。&lt;/p&gt;
+
+&lt;h3 id=&quot;mar-5&quot;&gt;Mar. 5&lt;/h3&gt;
+
+&lt;p&gt;去了Ogden museum of Southern Art. 偷听了爵士乐片段。&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;img src=’https://yunyyyy.github.io/Blogs/assets/IMG_5419.HEIC’ width=400px&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;然后去吃pho。是一家风格非常东南亚的店。暖色调。&lt;/p&gt;
+
+&lt;p&gt;最后又步行回家。&lt;/p&gt;
+
+&lt;h3 id=&quot;mar6&quot;&gt;Mar.6&lt;/h3&gt;
+
+&lt;p&gt;获得了很多新鲜体验。&lt;/p&gt;
+
+&lt;p&gt;早上在magazine street附近的一家咖啡店工作。吃到很好吃的brunch。&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;img src=’https://yunyyyy.github.io/Blogs/assets/IMG_5477.JPG’ width=400px&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;晚上在二楼阳台吃饭。&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;img src=’https://yunyyyy.github.io/Blogs/assets/IMG_5493.JPG’ width=400px&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;看到了新人游街。&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;img src=’https://yunyyyy.github.io/Blogs/assets/IMG_5485.JPG’ width=400px&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;参加Ghost tour，去了摇滚酒吧和爵士酒吧。真的是太精彩。&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 01 Mar 2020 00:00:00 -0500</pubDate>
@@ -316,7 +438,7 @@
       </item>
     
       <item>
-        <title>How to view your html password</title>
+        <title>显示html密码</title>
         <description>&lt;p&gt;The usual setting for HTML password is:&lt;/p&gt;
 
 &lt;div&gt;
@@ -345,8 +467,8 @@
 
 </description>
         <pubDate>Mon, 03 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/notes/how-to-view-your-html-password/</link>
-        <guid isPermaLink="true">http://localhost:4000/notes/how-to-view-your-html-password/</guid>
+        <link>http://localhost:4000/notes/%E6%98%BE%E7%A4%BAhtml%E5%AF%86%E7%A0%81/</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/%E6%98%BE%E7%A4%BAhtml%E5%AF%86%E7%A0%81/</guid>
       </item>
     
       <item>
@@ -418,578 +540,6 @@ git push
         <pubDate>Sat, 01 Feb 2020 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/nianlun/2020%E5%B9%B4-%E5%88%9D/</link>
         <guid isPermaLink="true">http://localhost:4000/nianlun/2020%E5%B9%B4-%E5%88%9D/</guid>
-      </item>
-    
-      <item>
-        <title>寻欢作乐</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;威廉·萨默塞特·毛姆 《寻欢作乐》&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;作者序&quot;&gt;作者序&lt;/h3&gt;
-
-&lt;p&gt;她有重大的、令人恼怒的过错，但是她长得很美，人也诚实。我和她的关系正如这种关系一贯会有的结果那样后来结束了，但是我对她的回忆年复一年地萦绕在我的脑海中。我知道总有一天我会把她写进一本小说。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;那是一个作家一生只能写一回的那种书。归根结底，他只有一生。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;读者对作家不得不应付的潜在的困难、无所适从的窘境和进退两难的局面，跟讲究饮食的人对把完好美味的弗吉尼亚火腿熏制出来放在他面前的那套工序同样漠不关心。不过这只是顺带一提而已。我喜欢《寻欢作乐》，因为那个脸上挂着明媚可爱的微笑的女人为我再次生活在这本书的字里行间，她就是罗西·德里菲尔德的原型。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;正文&quot;&gt;正文&lt;/h3&gt;
-
-&lt;p&gt;查尔斯·狄更斯在一次宴会后的演说中曾说天才来自无穷无尽的刻苦努力。我不禁猜想在他头一次读到狄更斯的这句话的时候，他必然看到了启示之光，而且仔细琢磨过这句话了。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;凡是多年来一直注视着他坚持不懈、勤奋工作的人都不会否认他好歹配得上被称为天才。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我们大多数人在对别人干了什么卑劣的勾当之后总对那个人心怀怨恨，但是罗伊素来心眼儿很好，决不允许自己的心胸如此狭窄。他可以在很不体面地对待一个人之后却丝毫不对那个人抱有敌意。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;街上的行人都带着漫不经心的神情，似乎那令人闲适的天气渗入了他们的心灵，使得他们在各自纷繁的事务中，自己也很意外地突然想停下来观看一下生活的图景。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;他坐在椅子上，安如泰山，看上去好似坐在一座纪念碑上。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;那种萦绕在年纪还不算老的人的心头的怀旧之感（我也不知道为什么，我的房间在我踏进去的时候使我比往常更为强烈地感到这一点）引着我的思绪顺着回忆的道路漫步走去。那就仿佛以往不同的时期在我的住处住过的所有那些人都拥到了我面前，他们的举止已经不合时宜，穿着也很古怪，男人都留着羊排络腮胡，穿着长礼服；女人则穿着带衬垫和有荷叶边的裙子。我不知道是我的想象呢，还是我当真听到了伦敦喧闹的市声（我住的房子在半月街的头上）。这种市声以及六月里那美好的天气晴和的日子（ le vierge, le vivace et le bel aujourd’ hui）使我的遐想添了一层并不怎么痛苦的酸楚之感。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我眼前的往事似乎失去了它的真实性。它在我的眼中好似一场正在台上演出的戏，我则是在黑暗的顶层楼座后排的一个观众。不过戏往下演的时候，一切在我眼前都显得很清楚。那并不像你所过的生活，由于各种印象纷至沓来、轮廓不清而显得朦朦胧胧，而是像维多利亚时代中期一位苦心创作的艺术家所画的风景油画那样鲜明清晰。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;北海的波涛送来一股好闻的强烈的气味，因而单是生活在这儿，呼吸这种空气，就令人心头舒畅。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;“他看上去不大像个水手，”我说。“哦，好多年前他就不干这行了。从那以后，他干过各式各样的工作。”&lt;/p&gt;
-
-&lt;p&gt;“行行皆通，样样稀松，”我叔叔说。“哦，我明白了，他是一个作家。”&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;霍德马什夫人和那个公爵夫人马上摆出一副和蔼谦恭的样子；有身份的人在遇到身份比他们低的人的时候总要做出这种姿态来表示他们从来没有意识到他们之间地位的差异。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我不知道眼前的一切是否真的使他感到快乐，还是在他那友好客气的态度背后隐藏着令他极其憎恶的厌烦。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;她说起话来口气总很热切，就像孩子那样洋溢着对生活的热情，她的眼睛总闪现出迷人的笑意。我说不出为什么我喜欢她的微笑。如果狡黠不是一种使人不快的品质，那我就得说她的微笑中带有一丝狡黠；可是她的微笑天真无邪得不能称之为狡黠。那是一种调皮的神情，就像一个孩子做了一件自己认为很有趣的事，但他知道你一定会觉得他相当淘气。他也知道你其实不会真生气的。要是你没有很快发现他干的事，他会自己跑来告诉你。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;可是不管人家怎么对待他，乔治勋爵却总是那么兴高采烈，爱好招摇，嗓门响亮，叫叫嚷嚷。他说整个镇都死气沉沉的，他要把它唤醒。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;你可带马到水边，无法强迫马喝水。（英国谚语）&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;那时我已经看了大量小说，在学校里也听到不少事情，所以对于爱情我已经懂得很多，但我以为那只是一件与年轻人有关系的事情。我无法想象一个长着胡子、儿子都和我一样大的男人还会有这种感情。我以为人一旦结了婚，所有这一类感情就结束了。过了三十岁的人居然还恋爱，我觉得相当令人恶心。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我不知道那时候英国的气候是否比现在好，还是那只是我少年时代的幻觉，不过我好像记得，那年整个夏天，阳光灿烂的日子一天接着一天，从不间断。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;理想有着各种名称，而美只是其中之一。我不知道这种喧嚣是否不过是那些无法适应我们这个英雄的机器世界的人所发出的悲鸣，也不知道他们这种对美——我们这个丢人的时代里的小耐尔——的热爱是否不过是多愁善感而已。也许我们的下一代对生活的压力更加适应，他们那时就不会以逃避现实的方式，而是以热切接受现实的方式来寻求灵感。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;美是完美无疵的，而任何完美无疵的事物也只能吸引我们一会儿工夫（这就是人的本性）。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;你只要想想一个人自幼年的时候起，老一辈的人就反复向他强调说年长的人总比年轻的人聪明，而等年轻人最终发现这种说法有多荒谬的时候，他们自己也已经老了，于是觉得把这种骗术进行下去对他们会有好处；再说，凡是在政界活动的人都会发现（如果从结果来看的话），统治国家其实并不需要多少智力。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;他那旺盛的活力一下子就摧毁了我修筑在消逝的往事上那脆弱的支架。他像一股三月里的狂风，把那咄咄逼人、无法逃避的现实又带到我的面前。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;有时候你面前只有一条小路，两边都是茂密的山楂树篱，上面是两旁伸展出的榆树的青枝绿叶，你抬头仰望，只看见中间露出的一线蓝天。当你在这暖烘烘的、炽热的空气中骑车前进的时候，你会觉得世界一下子静止了，而生命会永远持续下去。虽然你在使劲地蹬着车，但是你却有一种甜美的、懒洋洋的感觉。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;“看来一个人既要做绅士又要当作家，是很不容易的。”&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;赫德森太太家再过去几户人家就到了沃霍尔大桥路，那儿电车丁丁当当，一边前进一边发出铃声；公共汽车隆隆地驶过；出租汽车的喇叭嘟嘟直叫。即使赫德森太太听到了这一切的话，那她所听到的也只是伦敦；伦敦的市声使她心神安宁，正如母亲低声哼着眠歌能把一个烦躁的婴儿哄得安静下来一样。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我想起了住在这儿的所有的人抱有的种种希望，他们对未来的美好憧憬，青年时代的火热的激情；也必然有人感到悔恨莫及，理想破灭，身心疲惫，无可奈何；有多少人在这儿尝到多少人生的喜怒哀乐，其中实际上包含了人类情感的整个范围，所以这间房本身似乎也奇怪地具有一种令人不安、难以捉摸的个性。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;要是你不时常找点事儿乐一下，那么这个世界就没意思了。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;她给人一种奇怪的感觉，好像浑身上下没有骨头；你觉得要是你捏一下她的小腿（当然，出于对女性的尊重以及她脸上的那种文静端庄的神态，我决不至于做出这种行为），你的手指头就会碰在一起。你拿起她的手的时候，你会觉得拿起的好像是一块剔去骨头的鱼片。虽然她眉眼十分开阔，但是她的整个面庞却给人一种变动不定的感觉。在她落座的时候，她似乎身上根本没有脊梁骨，看上去好像一个装满了天鹅羽绒的昂贵的靠垫。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;一个人听到旁人断言他是一个天才心里总不免会很舒畅。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我把她的美貌看成事物发展的自然规律，正如北海或特堪伯里大教堂的尖塔上面的落日一样。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;她就像夏天傍晚阳光逐渐从明净的天空消失时那么宁静。她的这种无限安详的神态一点都不显得呆板迟钝，反而跟八月份的阳光底下肯特海岸外那风平浪静、闪闪发亮的大海一样充满生气。她不禁使我想起有位意大利老作曲家所创作的一首小奏鸣曲，在它那忧伤凄婉的旋律中却含有优雅活泼的情调，而在轻快起伏的欢乐中却又回响着颤抖的叹息。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;随着我们年岁的增长，我们会日益意识到人类的错综复杂、前后矛盾和不通情理；这就是那些本来应该比较适当地去思考一些更为严肃的主题的中老年作家，把他们的心思转向想象中的人物的琐事的唯一借口，因为如果对人类的研究应当从人入手的话，那么比较明智的方法显然应当是去研究小说中的那些前后一致、有血有肉的重要的人物，而不是现实生活中的那些没有理性、模糊不清的形象。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;有时候小说家觉得自己就像上帝，他想把他作品中的人物的各个方面都告诉你；可是有时候他又觉得自己不像上帝，于是他就不对你讲有关他的人物的所有应当知道的事情，而只是他自己知道的那一点儿。随着我们年岁的增长，我们越来越觉得自己不像上帝，所以听说小说家年纪越大，越不愿写超出他们个人生活经验范围的事情，我倒并不感到奇怪。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;黎明蓦然向我们迎来，就像一只小猫顺着台阶一跃而上。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;从他说话的口气里，我看出来他指望我能给他一些安慰，而不是为他庆幸。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;他说他喜欢把脚踩在高脚凳的横档上的那种感觉。我相信他在这儿比在其他随便什么地方都要高兴。他总说他很喜欢酒吧。他说在那儿你会见到生活，他说他始终热爱生活。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;当年他降生到世间，学会了行走，不久长大成人，结婚，生儿育女，他的儿女接着也生儿育女。从他的外表，我断定他一生都在贫困中不停地辛苦工作，他有一种乡村医生所特有的态度，直率、热诚而又圆滑。他的一生已经过去了。我脑子里却还有那么多写书写剧本的计划，我对未来充满了各种打算；我觉得在我今后的生涯中还有那么多活动和乐趣；可是在别人看来，恐怕我一定也是一个像我眼中的医生儿子那样的老年人。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我真希望在这阴冷的日子里房间里能生个火，可是英国人是一个既能吃苦又很守旧的种族；在他们看来，为了信守自己的原则而让别人不舒服，那并不是什么困难的事。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;从这些照片上，你可以看到他的脸越来越瘦削，皱纹越来越多。他早年照片上那种倔强、平凡的神态渐渐溶化成一种疲倦优雅的气派。你可以看到经验、思考和已经实现的抱负在他身上所引起的变化。我又看了看他还是个年轻水手时的照片，觉得好像那时他就已经露出一丝超然的神态，这种神态在他晚年的照片中非常明显，而且多年以前，我从他本人的身上也隐约地感觉到这一点。你所见到的那张脸只是一个面具，他的行动也毫无意义。我有一种印象，好像德里菲尔德一直到死都是孤独的，并不被人了解，真实的他犹如一个幽灵，无人察觉地默默地在作为作家的他和实际生活的他之间徘徊，望着被世人当做爱德华·德里菲尔德的这两个木偶，露出了嘲讽的超然的微笑。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我记得最清楚的就是她在这幅画像上的模样。尽管她穿着老式的衣衫，但看上去还是充满生气，胸中蕴藏的激情使她全身都显得在微微地颤抖。她似乎准备迎接爱情的冲击。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我早就发现在我最严肃的时候，人们却总要发笑。实际上，等我过了一段时间重读自己当初用真诚的感情所写的那些段落时，我也忍不住想要笑我自己。这一定是因为真诚的感情本身有着某种荒唐可笑的地方，不过我也想不出为什么会如此，莫非因为人本来只是一个无足轻重的行星上的短暂居民，因此对于永恒的心灵而言，一个人一生的痛苦和奋斗只不过是个笑话而已。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;他是一个身上奇特地混合着强烈的感情和极端的冷漠的人。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;尽管扬克斯有当当响的电车和嘟嘟叫的汽车，到处都是电影院和灯光招牌，但是主要的街道弯弯曲曲，看上去微微有点儿像一个爵士音乐化了的英国乡镇。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;她是一个得力的伙伴，却是一个危险的对手。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我就思考起一个作家的生活来。那真是饱经忧患。开始的时候，他必须忍受贫困和世人的冷漠；等到取得了一些成就，他必须神色欣然地应付任何意想不到的情形。他的成败有赖于喜怒无常的公众。他得听凭所有下面这些人的摆布：记者们采访他，摄影师要为他照相，编辑催他交稿，税务官催他交所得税，身份高贵的人请他去吃午饭，协会秘书请他去演讲；有的女人想嫁给他，有的女人要和他离婚；年轻人要他的亲笔签名，演员要求在他的戏里扮演角色，素不相识的人问他借钱，感情冲动的女士征求他关于婚姻方面的意见，态度认真的年轻人要他指点他们写作，还有经纪人、出版商、经理、令他厌烦的人、仰慕他的人、评论家以及他自己的良心。可是他可以得到一种补偿。无论何时，只要他心里有什么事情，不管是令他心神不安的某种想法，好友亡故的哀痛，得不到回应的相思，受到伤害的自尊心，还是对一个他曾好心相待的友人背信弃义的愤怒，总之，只要心中产生一种激情或一种令他困惑不解的想法，他只需要把它写成白纸黑字，用它作为一个故事的主题，或是一篇散文的点缀，好最终把它彻底忘却。他是唯一自由的人。&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 31 Jan 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/sougua/%E5%AF%BB%E6%AC%A2%E4%BD%9C%E4%B9%90/</link>
-        <guid isPermaLink="true">http://localhost:4000/sougua/%E5%AF%BB%E6%AC%A2%E4%BD%9C%E4%B9%90/</guid>
-      </item>
-    
-      <item>
-        <title>夏洛特女郎</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;《丁尼生诗选》，上海译文出版，1995年&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;夏洛特女郎 《The Lady of Shalott》&lt;/p&gt;
-
-&lt;p&gt;【英】丁尼生&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;第一部&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;在那条河的两岸，是一片&lt;/p&gt;
-
-&lt;p&gt;种着大麦和黑麦的农田；&lt;/p&gt;
-
-&lt;p&gt;麦覆盖着平野，远接长天；&lt;/p&gt;
-
-&lt;p&gt;还有一条路穿行田野间，&lt;/p&gt;
-
-&lt;p&gt;通向古堡卡默洛特；&lt;/p&gt;
-
-&lt;p&gt;人们在那路上来来往往，&lt;/p&gt;
-
-&lt;p&gt;把大片盛开的睡莲凝望——&lt;/p&gt;
-
-&lt;p&gt;盛开在小岛的四面八方，&lt;/p&gt;
-
-&lt;p&gt;那就是小岛夏洛特。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;柳树泛白光，山杨在颤抖，&lt;/p&gt;
-
-&lt;p&gt;拂过的风儿虽说极轻柔，&lt;/p&gt;
-
-&lt;p&gt;也吹暗河面，把河水吹皱；&lt;/p&gt;
-
-&lt;p&gt;而河水在岛旁流啊流，&lt;/p&gt;
-
-&lt;p&gt;永远流往卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;灰色的四座角楼和四墙&lt;/p&gt;
-
-&lt;p&gt;俯视着大片开花的地方；&lt;/p&gt;
-
-&lt;p&gt;在这寂静小岛上的绣房&lt;/p&gt;
-
-&lt;p&gt;深居着女郎夏洛特。&lt;/p&gt;
-
-&lt;p&gt;在岸边的柳树浓荫下面，&lt;/p&gt;
-
-&lt;p&gt;几匹马慢慢地拉着大船；&lt;/p&gt;
-
-&lt;p&gt;岛上没有人向这船呼唤，&lt;/p&gt;
-
-&lt;p&gt;任其双桅上张挂着丝帆&lt;/p&gt;
-
-&lt;p&gt;一路驶向卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;可有谁见过她挥一挥手？&lt;/p&gt;
-
-&lt;p&gt;可有谁见过她站在窗后？&lt;/p&gt;
-
-&lt;p&gt;她可曾传诵在百姓之口——&lt;/p&gt;
-
-&lt;p&gt;这一位女郎夏洛特？&lt;/p&gt;
-
-&lt;p&gt;大麦长芒刺，收割人起早：&lt;/p&gt;
-
-&lt;p&gt;只有田间的他们才听到&lt;/p&gt;
-
-&lt;p&gt;一支轻快的歌回声袅绕——&lt;/p&gt;
-
-&lt;p&gt;来自那蜿蜒而去的河道，&lt;/p&gt;
-
-&lt;p&gt;去往古堡卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;凭着月光，疲乏的收割人&lt;/p&gt;
-
-&lt;p&gt;在多风的高处堆垛麦捆；&lt;/p&gt;
-
-&lt;p&gt;他们倾听着歌，低语出声：&lt;/p&gt;
-
-&lt;p&gt;“是那成仙的夏洛特。”&lt;/p&gt;
-
-&lt;p&gt;第二部&lt;/p&gt;
-
-&lt;p&gt;她在那里日夜的织着网，&lt;/p&gt;
-
-&lt;p&gt;织一方色彩鲜艳的魔网；&lt;/p&gt;
-
-&lt;p&gt;她听到一声低语在耳旁：&lt;/p&gt;
-
-&lt;p&gt;她得遭殃，倘她住手张望，&lt;/p&gt;
-
-&lt;p&gt;张望那座卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;得遭什么殃她可弄不清，&lt;/p&gt;
-
-&lt;p&gt;所以她只顾织啊织不停，&lt;/p&gt;
-
-&lt;p&gt;其他的事情全然不经心——&lt;/p&gt;
-
-&lt;p&gt;她就是女郎夏洛特。&lt;/p&gt;
-
-&lt;p&gt;整年有镜子挂在她眼前，&lt;/p&gt;
-
-&lt;p&gt;就在那清澈的镜子里面，&lt;/p&gt;
-
-&lt;p&gt;有人间的种种影像出现；&lt;/p&gt;
-
-&lt;p&gt;由此她看见大路并不远——&lt;/p&gt;
-
-&lt;p&gt;逶迤通向卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;她又看见河水卷着水涡，&lt;/p&gt;
-
-&lt;p&gt;看见粗鲁的庄稼汉，还有，&lt;/p&gt;
-
-&lt;p&gt;穿红斗篷的去市场村姑&lt;/p&gt;
-
-&lt;p&gt;经过了小岛夏洛特。&lt;/p&gt;
-
-&lt;p&gt;有时候快活的姑娘一群、&lt;/p&gt;
-
-&lt;p&gt;骑马缓行的寺院主持人，&lt;/p&gt;
-
-&lt;p&gt;有时候鬈发小羊倌一名&lt;/p&gt;
-
-&lt;p&gt;或留长发的红衣小侍从，&lt;/p&gt;
-
-&lt;p&gt;去那城堡卡默洛特；&lt;/p&gt;
-
-&lt;p&gt;有时在蓝莹莹的镜子里，&lt;/p&gt;
-
-&lt;p&gt;可看见联袂并辔的骑士；&lt;/p&gt;
-
-&lt;p&gt;但没有一位对她矢志不移，&lt;/p&gt;
-
-&lt;p&gt;对她这女郎夏洛特。&lt;/p&gt;
-
-&lt;p&gt;然而她总喜欢织她的网，&lt;/p&gt;
-
-&lt;p&gt;织上她镜中古怪的景象；&lt;/p&gt;
-
-&lt;p&gt;因为常常在寂静的晚上，&lt;/p&gt;
-
-&lt;p&gt;有送葬队伍，有羽饰、火光、&lt;/p&gt;
-
-&lt;p&gt;音乐去往卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;有时候，月光在当空照耀，&lt;/p&gt;
-
-&lt;p&gt;一对新婚的恋人会来到，&lt;/p&gt;
-
-&lt;p&gt;“我可讨厌这影像，”她说道——&lt;/p&gt;
-
-&lt;p&gt;她就是女郎夏洛特。&lt;/p&gt;
-
-&lt;p&gt;第三部&lt;/p&gt;
-
-&lt;p&gt;离她的闺房一箭之遥处，&lt;/p&gt;
-
-&lt;p&gt;有位骑手在麦捆间驰过；&lt;/p&gt;
-
-&lt;p&gt;叶间筛下的阳光在闪烁，&lt;/p&gt;
-
-&lt;p&gt;叫勇士的金甲亮得像火——&lt;/p&gt;
-
-&lt;p&gt;这是骑士朗斯洛特。&lt;/p&gt;
-
-&lt;p&gt;他的盾牌上有一个图案：&lt;/p&gt;
-
-&lt;p&gt;红十字骑士跪在女士前；&lt;/p&gt;
-
-&lt;p&gt;这盾在金黄色田间忽闪，&lt;/p&gt;
-
-&lt;p&gt;远处是小岛夏洛特。&lt;/p&gt;
-
-&lt;p&gt;镶珠嵌宝的马勒在闪亮，&lt;/p&gt;
-
-&lt;p&gt;就像是一片璀璨的星光&lt;/p&gt;
-
-&lt;p&gt;发自那银汉耿耿的天上。&lt;/p&gt;
-
-&lt;p&gt;马具上的铃欢快地玎珰——&lt;/p&gt;
-
-&lt;p&gt;他在驰向卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;那条饰有纹章的斜带下，&lt;/p&gt;
-
-&lt;p&gt;挂有一只硕大的银喇叭；&lt;/p&gt;
-
-&lt;p&gt;马一跑，响的是他的盔甲——&lt;/p&gt;
-
-&lt;p&gt;远处是小岛夏洛特。&lt;/p&gt;
-
-&lt;p&gt;瞧那无云的晴空万里碧，&lt;/p&gt;
-
-&lt;p&gt;满是珠宝的马鞍在闪熠，&lt;/p&gt;
-
-&lt;p&gt;那头盔顶上的一蓬鸟羽&lt;/p&gt;
-
-&lt;p&gt;像火焰一样的鲜艳明丽——&lt;/p&gt;
-
-&lt;p&gt;他在驰往卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;如同时时在紫莹莹夜间，&lt;/p&gt;
-
-&lt;p&gt;在簇簇明亮的星星下面，&lt;/p&gt;
-
-&lt;p&gt;一颗拖光尾的流星出现，&lt;/p&gt;
-
-&lt;p&gt;掠过宁静的夏洛特。&lt;/p&gt;
-
-&lt;p&gt;他开朗的脸上闪着阳光，&lt;/p&gt;
-
-&lt;p&gt;战马锃亮的蹄踏在地上，&lt;/p&gt;
-
-&lt;p&gt;骑马的他一路朝前直闯，&lt;/p&gt;
-
-&lt;p&gt;盔下的漆黑鬈发在飘扬，&lt;/p&gt;
-
-&lt;p&gt;他呀驰向卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;岸上的本人、河里的倒影，&lt;/p&gt;
-
-&lt;p&gt;一起映进那水晶的明镜；&lt;/p&gt;
-
-&lt;p&gt;岸上传来了啦啦的歌声，&lt;/p&gt;
-
-&lt;p&gt;唱的人是朗斯洛特。&lt;/p&gt;
-
-&lt;p&gt;她离开织机、离开织的网，&lt;/p&gt;
-
-&lt;p&gt;她三步两步走过她闺房，&lt;/p&gt;
-
-&lt;p&gt;她看见睡莲的花儿开放，&lt;/p&gt;
-
-&lt;p&gt;看见那盔顶的鸟羽飘扬，&lt;/p&gt;
-
-&lt;p&gt;她望着那卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;那网飞出窗，直朝远处飘，&lt;/p&gt;
-
-&lt;p&gt;那镜子一裂两半地碎掉，&lt;/p&gt;
-
-&lt;p&gt;她喊道，“我呀已在劫难逃”——&lt;/p&gt;
-
-&lt;p&gt;她就是女郎夏洛特。&lt;/p&gt;
-
-&lt;p&gt;第四部&lt;/p&gt;
-
-&lt;p&gt;萎黄的树林已日渐凋零，&lt;/p&gt;
-
-&lt;p&gt;正在狂烈的东风里挣扎；&lt;/p&gt;
-
-&lt;p&gt;宽阔的河在两岸间呻吟，&lt;/p&gt;
-
-&lt;p&gt;低沉的天空大雨下不停，&lt;/p&gt;
-
-&lt;p&gt;洒向城堡卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;她出门来到一株柳树前，&lt;/p&gt;
-
-&lt;p&gt;找到遗在那里的一条船，&lt;/p&gt;
-
-&lt;p&gt;就把几个字写在船头边：&lt;/p&gt;
-
-&lt;p&gt;岛上的女郎夏洛特。&lt;/p&gt;
-
-&lt;p&gt;那河的水面上幽暗昏沉；&lt;/p&gt;
-
-&lt;p&gt;像个恍惚的勇敢占卜人&lt;/p&gt;
-
-&lt;p&gt;预见到自己的全部不幸——&lt;/p&gt;
-
-&lt;p&gt;她那木然而呆滞的眼睛&lt;/p&gt;
-
-&lt;p&gt;遥望着那卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;天光将冥的茫茫暮色里，&lt;/p&gt;
-
-&lt;p&gt;她解开船索，躺下在船底，&lt;/p&gt;
-
-&lt;p&gt;让宽阔的河载着她远去，&lt;/p&gt;
-
-&lt;p&gt;载着这女郎夏洛特。&lt;/p&gt;
-
-&lt;p&gt;躺着的她穿雪白的衣裙，&lt;/p&gt;
-
-&lt;p&gt;宽松的忽左忽右飘不停；&lt;/p&gt;
-
-&lt;p&gt;伴着夜里的天籁和虫鸣，&lt;/p&gt;
-
-&lt;p&gt;落向她的树叶轻而又轻——&lt;/p&gt;
-
-&lt;p&gt;她呀漂向卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;在两岸的柳坡、田野之中，&lt;/p&gt;
-
-&lt;p&gt;小船在曲曲折折地前进；&lt;/p&gt;
-
-&lt;p&gt;人们听到她最后的歌声——&lt;/p&gt;
-
-&lt;p&gt;听到这女郎夏洛特。&lt;/p&gt;
-
-&lt;p&gt;他们听见的歌忧郁圣洁，&lt;/p&gt;
-
-&lt;p&gt;一会声音高，一会声音低，&lt;/p&gt;
-
-&lt;p&gt;唱到她血液渐渐地冷却，&lt;/p&gt;
-
-&lt;p&gt;唱到她完全丧失了视力——&lt;/p&gt;
-
-&lt;p&gt;望着城堡卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;她随波逐流地一路漂去；&lt;/p&gt;
-
-&lt;p&gt;没漂到岸边第一幢屋子，&lt;/p&gt;
-
-&lt;p&gt;已在自己的歌声中去世——&lt;/p&gt;
-
-&lt;p&gt;去世了，女郎夏洛特。&lt;/p&gt;
-
-&lt;p&gt;白糊糊的身影显得惨白，&lt;/p&gt;
-
-&lt;p&gt;让船带着漂过塔楼、跳台；&lt;/p&gt;
-
-&lt;p&gt;她无声地漂过圆墙、阳台，&lt;/p&gt;
-
-&lt;p&gt;漂过耸立在两岸的高宅，&lt;/p&gt;
-
-&lt;p&gt;就此漂进卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;爵爷和夫人、骑士和市民，&lt;/p&gt;
-
-&lt;p&gt;都拥到码头上看个究竟——&lt;/p&gt;
-
-&lt;p&gt;在船头上读到她的芳名：&lt;/p&gt;
-
-&lt;p&gt;岛上的女郎夏洛特。&lt;/p&gt;
-
-&lt;p&gt;这里是什么？这是什么人？&lt;/p&gt;
-
-&lt;p&gt;附近灯火通明的宫殿中，&lt;/p&gt;
-
-&lt;p&gt;国王举行的欢宴寂无声，&lt;/p&gt;
-
-&lt;p&gt;划十字的骑士个个惊恐——&lt;/p&gt;
-
-&lt;p&gt;个个身在卡默洛特。&lt;/p&gt;
-
-&lt;p&gt;但朗斯洛特沉思了一会，&lt;/p&gt;
-
-&lt;p&gt;说道，“她的脸长的很美，&lt;/p&gt;
-
-&lt;p&gt;愿仁慈的上帝给她恩惠——&lt;/p&gt;
-
-&lt;p&gt;给这位女郎夏洛特。”&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 20 Jan 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/sougua/%E5%A4%8F%E6%B4%9B%E7%89%B9%E5%A5%B3%E9%83%8E/</link>
-        <guid isPermaLink="true">http://localhost:4000/sougua/%E5%A4%8F%E6%B4%9B%E7%89%B9%E5%A5%B3%E9%83%8E/</guid>
       </item>
     
   </channel>
