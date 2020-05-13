@@ -3,8 +3,8 @@
   <channel>
     <title>Yunyy</title>
     <description>Yunyy's Notes, 流水账和七拼八凑的时间碎片。</description>
-    <link>https://yunyyyy.github.io/Blogs/</link>
-    <atom:link href="https://yunyyyy.github.io/Blogs//feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>破云</title>
@@ -85,8 +85,8 @@
 
 </description>
         <pubDate>Sat, 02 May 2020 00:00:00 +0800</pubDate>
-        <link>https://yunyyyy.github.io/Blogs//sougua/%E7%A0%B4%E4%BA%91/</link>
-        <guid isPermaLink="true">https://yunyyyy.github.io/Blogs//sougua/%E7%A0%B4%E4%BA%91/</guid>
+        <link>http://localhost:4000/sougua/%E7%A0%B4%E4%BA%91/</link>
+        <guid isPermaLink="true">http://localhost:4000/sougua/%E7%A0%B4%E4%BA%91/</guid>
       </item>
     
       <item>
@@ -95,8 +95,8 @@
 
 </description>
         <pubDate>Fri, 24 Apr 2020 00:00:00 +0800</pubDate>
-        <link>https://yunyyyy.github.io/Blogs//mazhuanji/%E6%83%B3%E4%B8%8D%E5%88%B0%E4%BB%80%E4%B9%88%E6%A0%87%E9%A2%98%E6%9D%A5%E6%A6%82%E6%8B%AC%E7%9A%84-%E9%BC%A0%E7%96%AB/</link>
-        <guid isPermaLink="true">https://yunyyyy.github.io/Blogs//mazhuanji/%E6%83%B3%E4%B8%8D%E5%88%B0%E4%BB%80%E4%B9%88%E6%A0%87%E9%A2%98%E6%9D%A5%E6%A6%82%E6%8B%AC%E7%9A%84-%E9%BC%A0%E7%96%AB/</guid>
+        <link>http://localhost:4000/mazhuanji/%E6%83%B3%E4%B8%8D%E5%88%B0%E4%BB%80%E4%B9%88%E6%A0%87%E9%A2%98%E6%9D%A5%E6%A6%82%E6%8B%AC%E7%9A%84-%E9%BC%A0%E7%96%AB/</link>
+        <guid isPermaLink="true">http://localhost:4000/mazhuanji/%E6%83%B3%E4%B8%8D%E5%88%B0%E4%BB%80%E4%B9%88%E6%A0%87%E9%A2%98%E6%9D%A5%E6%A6%82%E6%8B%AC%E7%9A%84-%E9%BC%A0%E7%96%AB/</guid>
       </item>
     
       <item>
@@ -498,8 +498,8 @@
 &lt;p&gt;傍晚时分，他独自出门，走在震耳欲聋的钟声、炮声、乐曲声和欢叫声中，要前往城郊街区。他继续出诊，患者没有假日。城市在绚丽而明净的晚照中，又冉冉升起昔日烤肉和茴香酒扑鼻的香味。周围尽是仰天大笑的面孔。男人和女人，都勾肩搭背，一张张脸火红火红，那么心荡神迷，张扬着欲望。是的，鼠疫结束了，恐怖也随之消逝，这些挽在一起的手臂确实表明，从词义的内涵讲，鼠疫就曾意味流放和分离。&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Apr 2020 00:00:00 +0800</pubDate>
-        <link>https://yunyyyy.github.io/Blogs//sougua/%E9%BC%A0%E7%96%AB/</link>
-        <guid isPermaLink="true">https://yunyyyy.github.io/Blogs//sougua/%E9%BC%A0%E7%96%AB/</guid>
+        <link>http://localhost:4000/sougua/%E9%BC%A0%E7%96%AB/</link>
+        <guid isPermaLink="true">http://localhost:4000/sougua/%E9%BC%A0%E7%96%AB/</guid>
       </item>
     
       <item>
@@ -646,8 +646,8 @@
 
 </description>
         <pubDate>Sun, 12 Apr 2020 00:00:00 +0800</pubDate>
-        <link>https://yunyyyy.github.io/Blogs//sougua/%E6%97%B6%E9%97%B4%E7%AE%80%E5%8F%B2/</link>
-        <guid isPermaLink="true">https://yunyyyy.github.io/Blogs//sougua/%E6%97%B6%E9%97%B4%E7%AE%80%E5%8F%B2/</guid>
+        <link>http://localhost:4000/sougua/%E6%97%B6%E9%97%B4%E7%AE%80%E5%8F%B2/</link>
+        <guid isPermaLink="true">http://localhost:4000/sougua/%E6%97%B6%E9%97%B4%E7%AE%80%E5%8F%B2/</guid>
       </item>
     
       <item>
@@ -695,8 +695,8 @@
 &lt;p&gt;尝试做一个伊甸园，新的版本——没有蛊惑人的毒蛇——而且亚当和夏娃都是中年人了。&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Apr 2020 00:00:00 +0800</pubDate>
-        <link>https://yunyyyy.github.io/Blogs//sougua/%E6%B3%A2%E6%B4%9B%E5%9C%A3%E8%AF%9E%E6%8E%A2%E6%A1%88%E8%AE%B0/</link>
-        <guid isPermaLink="true">https://yunyyyy.github.io/Blogs//sougua/%E6%B3%A2%E6%B4%9B%E5%9C%A3%E8%AF%9E%E6%8E%A2%E6%A1%88%E8%AE%B0/</guid>
+        <link>http://localhost:4000/sougua/%E6%B3%A2%E6%B4%9B%E5%9C%A3%E8%AF%9E%E6%8E%A2%E6%A1%88%E8%AE%B0/</link>
+        <guid isPermaLink="true">http://localhost:4000/sougua/%E6%B3%A2%E6%B4%9B%E5%9C%A3%E8%AF%9E%E6%8E%A2%E6%A1%88%E8%AE%B0/</guid>
       </item>
     
       <item>
@@ -965,8 +965,8 @@
 
 </description>
         <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
-        <link>https://yunyyyy.github.io/Blogs//sougua/%E7%BA%A2%E4%BD%9B%E5%A4%9C%E5%A5%94/</link>
-        <guid isPermaLink="true">https://yunyyyy.github.io/Blogs//sougua/%E7%BA%A2%E4%BD%9B%E5%A4%9C%E5%A5%94/</guid>
+        <link>http://localhost:4000/sougua/%E7%BA%A2%E4%BD%9B%E5%A4%9C%E5%A5%94/</link>
+        <guid isPermaLink="true">http://localhost:4000/sougua/%E7%BA%A2%E4%BD%9B%E5%A4%9C%E5%A5%94/</guid>
       </item>
     
       <item>
@@ -1001,46 +1001,8 @@
 
 </description>
         <pubDate>Thu, 19 Mar 2020 00:00:00 +0800</pubDate>
-        <link>https://yunyyyy.github.io/Blogs//liushui/%E5%BE%88%E4%B8%8D%E6%AD%A3%E7%BB%8F%E7%9A%84%E9%9D%A2%E7%BB%8F/</link>
-        <guid isPermaLink="true">https://yunyyyy.github.io/Blogs//liushui/%E5%BE%88%E4%B8%8D%E6%AD%A3%E7%BB%8F%E7%9A%84%E9%9D%A2%E7%BB%8F/</guid>
-      </item>
-    
-      <item>
-        <title>终端安装r pakcage</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Reference: http://www.ryantmoore.org/files/ht/htrtargz.pdf&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;为了某客户要求要在R里装gglasso。结果发现gfortran路径问题在Rstudio里面一直装不上。于是从&lt;a href=&quot;https://cran.r-project.org/web/packages/gglasso/index.html&quot;&gt;CRAN&lt;/a&gt;下载源码然后终端安装。&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;关闭R&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In terminal,&lt;/p&gt;
-
-    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;R CMD INSTALL &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;path.to.pkg.tar.gz]
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-
-    &lt;p&gt;(or &lt;code class=&quot;highlighter-rouge&quot;&gt;.tgz&lt;/code&gt;)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;打开R&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;就好啦！&lt;/p&gt;
-
-&lt;p&gt;Amazing.&lt;/p&gt;
-
-&lt;开始走滑稽风了呢.jpg&gt;
-
-&lt;/开始走滑稽风了呢.jpg&gt;
-</description>
-        <pubDate>Wed, 18 Mar 2020 00:00:00 +0800</pubDate>
-        <link>https://yunyyyy.github.io/Blogs//notes/%E7%BB%88%E7%AB%AF%E5%AE%89%E8%A3%85R-pakcage/</link>
-        <guid isPermaLink="true">https://yunyyyy.github.io/Blogs//notes/%E7%BB%88%E7%AB%AF%E5%AE%89%E8%A3%85R-pakcage/</guid>
+        <link>http://localhost:4000/liushui/%E5%BE%88%E4%B8%8D%E6%AD%A3%E7%BB%8F%E7%9A%84%E9%9D%A2%E7%BB%8F/</link>
+        <guid isPermaLink="true">http://localhost:4000/liushui/%E5%BE%88%E4%B8%8D%E6%AD%A3%E7%BB%8F%E7%9A%84%E9%9D%A2%E7%BB%8F/</guid>
       </item>
     
       <item>
@@ -1174,8 +1136,8 @@
 &lt;p&gt;苏东坡已死，他的名字只是一个记忆。但是他留给我们的，是他那心灵的喜悦，是他那思想的快乐，这才是万古不朽的。 &lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Mar 2020 00:00:00 +0800</pubDate>
-        <link>https://yunyyyy.github.io/Blogs//sougua/%E8%8B%8F%E4%B8%9C%E5%9D%A1%E4%BC%A0/</link>
-        <guid isPermaLink="true">https://yunyyyy.github.io/Blogs//sougua/%E8%8B%8F%E4%B8%9C%E5%9D%A1%E4%BC%A0/</guid>
+        <link>http://localhost:4000/sougua/%E8%8B%8F%E4%B8%9C%E5%9D%A1%E4%BC%A0/</link>
+        <guid isPermaLink="true">http://localhost:4000/sougua/%E8%8B%8F%E4%B8%9C%E5%9D%A1%E4%BC%A0/</guid>
       </item>
     
       <item>
@@ -1270,8 +1232,90 @@
 
 </description>
         <pubDate>Sun, 01 Mar 2020 00:00:00 +0800</pubDate>
-        <link>https://yunyyyy.github.io/Blogs//chengshi/%E5%8D%81%E4%BA%8C%E6%A9%A1%E6%A0%91%E5%92%8C%E7%83%A4%E9%B8%A1%E8%85%BF%E5%A0%A1/</link>
-        <guid isPermaLink="true">https://yunyyyy.github.io/Blogs//chengshi/%E5%8D%81%E4%BA%8C%E6%A9%A1%E6%A0%91%E5%92%8C%E7%83%A4%E9%B8%A1%E8%85%BF%E5%A0%A1/</guid>
+        <link>http://localhost:4000/chengshi/%E5%8D%81%E4%BA%8C%E6%A9%A1%E6%A0%91%E5%92%8C%E7%83%A4%E9%B8%A1%E8%85%BF%E5%A0%A1/</link>
+        <guid isPermaLink="true">http://localhost:4000/chengshi/%E5%8D%81%E4%BA%8C%E6%A9%A1%E6%A0%91%E5%92%8C%E7%83%A4%E9%B8%A1%E8%85%BF%E5%A0%A1/</guid>
+      </item>
+    
+      <item>
+        <title>仓央嘉措 无题</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;无题 · 仓央嘉措&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;我终于明白&lt;/p&gt;
+
+&lt;p&gt;世间有一种思绪&lt;/p&gt;
+
+&lt;p&gt;无法用言语形容&lt;/p&gt;
+
+&lt;p&gt;粗犷而忧伤&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;回声的千结百绕&lt;/p&gt;
+
+&lt;p&gt;而守候的是&lt;/p&gt;
+
+&lt;p&gt;执着&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;一如月光下的高原&lt;/p&gt;
+
+&lt;p&gt;一抹淡淡痴痴的笑&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;笑那浮华落尽 月色如洗&lt;/p&gt;
+
+&lt;p&gt;笑那悄然而逝 飞花万盏&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;谁是那轻轻颤动的百合&lt;/p&gt;
+
+&lt;p&gt;在你的清辉下亘古不变&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;谁有那灼灼热烈的双眸&lt;/p&gt;
+
+&lt;p&gt;在你的颔首中攀援而上&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;遥远的忧伤&lt;/p&gt;
+
+&lt;p&gt;穿过千山万水&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;纵使高原上的风&lt;/p&gt;
+
+&lt;p&gt;吹不散&lt;/p&gt;
+
+&lt;p&gt;执着的背影&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;纵使清晨前的霜&lt;/p&gt;
+
+&lt;p&gt;融不化&lt;/p&gt;
+
+&lt;p&gt;心头的温热&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;你静守在月下&lt;/p&gt;
+
+&lt;p&gt;悄悄地来&lt;/p&gt;
+
+&lt;p&gt;悄悄地走&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 27 Feb 2020 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/sougua/%E4%BB%93%E5%A4%AE%E5%98%89%E6%8E%AA-%E6%97%A0%E9%A2%98/</link>
+        <guid isPermaLink="true">http://localhost:4000/sougua/%E4%BB%93%E5%A4%AE%E5%98%89%E6%8E%AA-%E6%97%A0%E9%A2%98/</guid>
       </item>
     
   </channel>
